@@ -1,0 +1,1574 @@
+[
+  {
+    "id": 111662,
+    "date": "2022-03-21T17:36:07",
+    "date_gmt": "2022-03-21T14:36:07",
+    "guid": {
+      "rendered": "https://globalaihub.com/?post_type=sfwd-courses&#038;p=111662"
+    },
+    "modified": "2022-06-02T11:11:49",
+    "modified_gmt": "2022-06-02T08:11:49",
+    "slug": "buyuk-veriden-icgoru-bulma-kapanis-webinari",
+    "status": "publish",
+    "type": "sfwd-courses",
+    "link": "https://globalaihub.com/courses/buyuk-veriden-icgoru-bulma-kapanis-webinari/",
+    "title": {
+      "rendered": "&#8220;Büyük Veriden İçgörü Bulma&#8221; Kapanış Webinarı"
+    },
+    "content": {
+      "rendered": "<h2><b>Partnerimiz</b></h2>\n<p><img loading=\"lazy\" class=\"alignnone wp-image-106647 \" src=\"https://globalaihub.com/wp-content/uploads/2021/12/TIU-LOGO-2400px-1-1-1024x306.png\" alt=\"\" width=\"486\" height=\"145\" srcset=\"https://globalaihub.com/wp-content/uploads/2021/12/TIU-LOGO-2400px-1-1-1024x306.png 1024w, https://globalaihub.com/wp-content/uploads/2021/12/TIU-LOGO-2400px-1-1-300x90.png 300w, https://globalaihub.com/wp-content/uploads/2021/12/TIU-LOGO-2400px-1-1-768x230.png 768w, https://globalaihub.com/wp-content/uploads/2021/12/TIU-LOGO-2400px-1-1-1536x460.png 1536w, https://globalaihub.com/wp-content/uploads/2021/12/TIU-LOGO-2400px-1-1-2048x613.png 2048w, https://globalaihub.com/wp-content/uploads/2021/12/TIU-LOGO-2400px-1-1-400x120.png 400w, https://globalaihub.com/wp-content/uploads/2021/12/TIU-LOGO-2400px-1-1-624x187.png 624w, https://globalaihub.com/wp-content/uploads/2021/12/TIU-LOGO-2400px-1-1-25x7.png 25w, https://globalaihub.com/wp-content/uploads/2021/12/TIU-LOGO-2400px-1-1-100x30.png 100w, https://globalaihub.com/wp-content/uploads/2021/12/TIU-LOGO-2400px-1-1-600x180.png 600w\" sizes=\"(max-width: 486px) 100vw, 486px\" /></p>\n<h2><strong>Etkinlik tarihi</strong></h2>\n<p><strong>30 Mart 2022</strong></p>\n<p><b>19.00 &#8211; 20.00</b></p>\n<h4><b><span data-contrast=\"none\">WEBİNAR HAKKINDA</span></b></h4>\n<p><span style=\"font-weight: 400;\">Her pazarlama faaliyetinin gerçek bir tüketici içgörüsüne dayandırma gerekliliği, pazarlama ve iletişim dünyasının son 220 yıldır üzerinde en çok durduğu konulardan biri.  Bu “insan gerçeği” asla sadece rakamsal bilgi ve bulgular biçiminde olmamalıdır.</span></p>\n<p><span style=\"font-weight: 400;\">Bilgi ve bulgular önemlidir ancak çoğunlukla kategorinin tüm markalarının elinde aynı bilgiler mevcuttur ve haliyle buradan yola çıkarak farklılaşma alanı bulmak zordur.  “İnsan gerçeğine” ulaşmak, tüketmeye sevk eden ancak tamamıyla keşfedilmemiş derin etkenlerin keşfi ile başlar.</span></p>\n<p><span style=\"font-weight: 400;\">Akan Abdula “Büyük Veriden İçgörü Bulma” başlıklı sunumuyla büyük veri dünyasından başlayarak, içgörü bulmanın inceliklerini anlatacak.</span></p>\n<h4><strong>KONUŞMACILAR</strong></h4>\n<p><img loading=\"lazy\" class=\"alignnone wp-image-111665 \" src=\"https://globalaihub.com/wp-content/uploads/2022/03/Tensorflow-Sertifikasi-Nasil-Alinir-TwitterLinkedin-1-1-e1647873301229.png\" alt=\"\" width=\"199\" height=\"272\" srcset=\"https://globalaihub.com/wp-content/uploads/2022/03/Tensorflow-Sertifikasi-Nasil-Alinir-TwitterLinkedin-1-1-e1647873301229.png 320w, https://globalaihub.com/wp-content/uploads/2022/03/Tensorflow-Sertifikasi-Nasil-Alinir-TwitterLinkedin-1-1-e1647873301229-220x300.png 220w, https://globalaihub.com/wp-content/uploads/2022/03/Tensorflow-Sertifikasi-Nasil-Alinir-TwitterLinkedin-1-1-e1647873301229-18x25.png 18w, https://globalaihub.com/wp-content/uploads/2022/03/Tensorflow-Sertifikasi-Nasil-Alinir-TwitterLinkedin-1-1-e1647873301229-73x100.png 73w\" sizes=\"(max-width: 199px) 100vw, 199px\" /></p>\n",
+      "protected": false
+    },
+    "author": 17,
+    "featured_media": 111675,
+    "menu_order": 0,
+    "template": "",
+    "categories": [],
+    "tags": [],
+    "ld_course_category": [],
+    "ld_course_tag": [],
+    "materials_enabled": false,
+    "materials": {
+      "rendered": ""
+    },
+    "certificate": 0,
+    "exam_challenge": 0,
+    "disable_content_table": false,
+    "lessons_per_page": false,
+    "lesson_per_page_custom": 20,
+    "topic_per_page_custom": 20,
+    "price_type": "open",
+    "price_type_paynow_price": "20 Hubpoints",
+    "price_type_paynow_enrollment_url": "",
+    "price_type_subscribe_price": "",
+    "trial_price": "",
+    "price_type_subscribe_enrollment_url": "",
+    "price_type_closed_price": "",
+    "price_type_closed_custom_button_url": "",
+    "prerequisite_enabled": false,
+    "prerequisite_compare": "ANY",
+    "prerequisites": [""],
+    "points_enabled": false,
+    "points_access": "",
+    "points_amount": "",
+    "progression_disabled": false,
+    "expire_access": false,
+    "expire_access_days": 0,
+    "expire_access_delete_progress": false,
+    "_links": {
+      "self": [
+        {
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/111662"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://globalaihub.com/wp-json/wp/v2/types/sfwd-courses"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/users/17"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 4,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/111662/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 112147,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/111662/revisions/112147"
+        }
+      ],
+      "price-types": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/price-types/paynow"
+        }
+      ],
+      "prerequisites": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/111662/prerequisites"
+        }
+      ],
+      "steps": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/111662/steps"
+        }
+      ],
+      "users": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/111662/users"
+        }
+      ],
+      "groups": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/111662/groups"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/media/111675"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://globalaihub.com/wp-json/wp/v2/media?parent=111662"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/categories?post=111662"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/tags?post=111662"
+        },
+        {
+          "taxonomy": "ld_course_category",
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/ld_course_category?post=111662"
+        },
+        {
+          "taxonomy": "ld_course_tag",
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/ld_course_tag?post=111662"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 109371,
+    "date": "2022-02-02T10:14:41",
+    "date_gmt": "2022-02-02T07:14:41",
+    "guid": {
+      "rendered": "https://globalaihub.com/?post_type=sfwd-courses&#038;p=109371"
+    },
+    "modified": "2022-02-10T14:37:04",
+    "modified_gmt": "2022-02-10T11:37:04",
+    "slug": "viatris-saglikta-yapay-zeka",
+    "status": "publish",
+    "type": "sfwd-courses",
+    "link": "https://globalaihub.com/courses/viatris-saglikta-yapay-zeka/",
+    "title": {
+      "rendered": "“Viatris ile Sağlıkta Dijitalleşme ve Yapay Zeka” Webinarları"
+    },
+    "content": {
+      "rendered": "<h4><strong>PARTNERİMİZ</strong></h4>\n<p><img loading=\"lazy\" class=\"alignnone size-medium wp-image-109385\" src=\"https://globalaihub.com/wp-content/uploads/2022/02/unnamed-300x105.png\" alt=\"\" width=\"300\" height=\"105\" srcset=\"https://globalaihub.com/wp-content/uploads/2022/02/unnamed-300x105.png 300w, https://globalaihub.com/wp-content/uploads/2022/02/unnamed-400x140.png 400w, https://globalaihub.com/wp-content/uploads/2022/02/unnamed-25x9.png 25w, https://globalaihub.com/wp-content/uploads/2022/02/unnamed-100x35.png 100w, https://globalaihub.com/wp-content/uploads/2022/02/unnamed.png 512w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></p>\n<h4><strong>ETKİNLİK TARİHİ</strong></h4>\n<p><a href=\"https://globalaihub.com/courses/viatris-saglikta-yapay-zeka/lessons/acilis-webinari-2/\"><strong>Açılış Webinarı</strong></a></p>\n<p>25.04.2022</p>\n<p>19:00 &#8211; 20:00</p>\n<p><a href=\"https://globalaihub.com/courses/viatris-saglikta-yapay-zeka/lessons/kapanis-webinari-3/\"><strong>Kapanış Webinarı</strong></a></p>\n<p>16.05.2022</p>\n<p>19:00 &#8211; 20:00</p>\n<h4 style=\"text-align: center;\"><span style=\"color: #027bc3;\">AÇILIŞ VE KAPANIŞ WEBİNAR SAYFALARINA GERÇEKLEŞTİRİLECEKLERİ TARİHLERDE ULAŞABİLİRSİNİZ.</span></h4>\n<p><span style=\"font-weight: 400;\">Google, Amazon ve AI Business School gibi dünyanın önde gelen şirketlerinin katkılarıyla hazırlanan yüksek kaliteli yapay zeka eğitimleri ve Viatris* Liderlik Ekibi ile gerçekleştirilecek canlı soru-cevap oturumlarıyla Sağlıkta Yapay Zeka Eğitim Kampı’nı duyuruyoruz.</span></p>\n<p><span style=\"font-weight: 400;\">“AI in Healthcare Bootcamp” için binlerce başvuru arasından 100 kişi seçilecektir. Bu programa seçilen katılımcılar ücretsiz olarak premium eğitimlerden faydalanıp toplam 4 hafta sürecek olan eğitim kampına dahil olacaklardır. Kamp süresince gösterilen eğitim başarısına göre seçilecek ilk 3 öğrenci ücretli premium eğitimden burslu olarak faydalanma şansına sahip olacaktır.</span></p>\n<p><span style=\"font-weight: 400;\"><a href=\"http://10million.ai/\" rel=\"nofollow\" >«10million.AI»</a> projesi kapsamında kendilerini yapay zeka alanında geliştirmek isteyen yetenekleri yine ücretsiz olarak sağladığımız mentorluk desteği ve düzenlenecek olan soru-cevap oturumları ayrıcalıklarıyla geliştirmeyi amaçlıyoruz. Başlangıç seminerine ve bu oturumlara Viatris&#8217;ten üst düzey yetkililerin katılımı ile bambaşka bir öğrenim deneyimi sizleri bekliyor.</span></p>\n<h4><strong>HUB</strong></h4>\n<p><span style=\"font-weight: 400;\">Etkinlik boyunca sorularınızı sormak ve gelişmelerden haberdar olmak için <a href=\"https://globalaihub.com/hubs/viatris-ile-saglikta-dijitallesme-ve-yapay-zeka-webinarlari/\">&#8220;Viatris ile Sağlıkta Dijitalleşme ve Yapay Zeka&#8221; Webinarları Hub</a>’ını takip etmeyi unutmayın!</span></p>\n<h4><b>KONUŞMACILAR </b></h4>\n<p><img loading=\"lazy\" class=\"alignnone wp-image-109391 size-large\" src=\"https://globalaihub.com/wp-content/uploads/2022/02/viatris_speakers-e1643791882675-1024x388.png\" alt=\"\" width=\"640\" height=\"243\" srcset=\"https://globalaihub.com/wp-content/uploads/2022/02/viatris_speakers-e1643791882675-1024x388.png 1024w, https://globalaihub.com/wp-content/uploads/2022/02/viatris_speakers-e1643791882675-300x114.png 300w, https://globalaihub.com/wp-content/uploads/2022/02/viatris_speakers-e1643791882675-768x291.png 768w, https://globalaihub.com/wp-content/uploads/2022/02/viatris_speakers-e1643791882675-400x152.png 400w, https://globalaihub.com/wp-content/uploads/2022/02/viatris_speakers-e1643791882675-624x237.png 624w, https://globalaihub.com/wp-content/uploads/2022/02/viatris_speakers-e1643791882675-25x9.png 25w, https://globalaihub.com/wp-content/uploads/2022/02/viatris_speakers-e1643791882675-100x38.png 100w, https://globalaihub.com/wp-content/uploads/2022/02/viatris_speakers-e1643791882675-600x227.png 600w, https://globalaihub.com/wp-content/uploads/2022/02/viatris_speakers-e1643791882675.png 1488w\" sizes=\"(max-width: 640px) 100vw, 640px\" /></p>\n<p><strong><span style=\"font-size: 12px;\">(*)Viatris, Türkiye&#8217;de Meda Pharma İlaç San.ve Tic.Ltd.Şti ve Pfizer İlaçları Ltd.Şti (Viatris Inc.&#8217;in bir yan kuruluşu) olmak üzere iki ayrı kuruluş altında faaliyet göstermektedir.</span></strong></p>\n",
+      "protected": false
+    },
+    "author": 17,
+    "featured_media": 109372,
+    "menu_order": 0,
+    "template": "",
+    "categories": [],
+    "tags": [],
+    "ld_course_category": [61, 84, 76, 86],
+    "ld_course_tag": [],
+    "materials_enabled": false,
+    "materials": {
+      "rendered": ""
+    },
+    "certificate": 0,
+    "exam_challenge": 0,
+    "disable_content_table": true,
+    "lessons_per_page": false,
+    "lesson_per_page_custom": 20,
+    "topic_per_page_custom": 20,
+    "price_type": "free",
+    "price_type_paynow_price": "",
+    "price_type_paynow_enrollment_url": "",
+    "price_type_subscribe_price": "",
+    "trial_price": "",
+    "price_type_subscribe_enrollment_url": "",
+    "price_type_closed_price": "",
+    "price_type_closed_custom_button_url": "",
+    "prerequisite_enabled": false,
+    "prerequisite_compare": "ANY",
+    "prerequisites": [""],
+    "points_enabled": false,
+    "points_access": "",
+    "points_amount": "",
+    "progression_disabled": false,
+    "expire_access": false,
+    "expire_access_days": 0,
+    "expire_access_delete_progress": false,
+    "_links": {
+      "self": [
+        {
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/109371"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://globalaihub.com/wp-json/wp/v2/types/sfwd-courses"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/users/17"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 19,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/109371/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 109687,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/109371/revisions/109687"
+        }
+      ],
+      "price-types": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/price-types/free"
+        }
+      ],
+      "prerequisites": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/109371/prerequisites"
+        }
+      ],
+      "steps": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/109371/steps"
+        }
+      ],
+      "users": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/109371/users"
+        }
+      ],
+      "groups": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/109371/groups"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/media/109372"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://globalaihub.com/wp-json/wp/v2/media?parent=109371"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/categories?post=109371"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/tags?post=109371"
+        },
+        {
+          "taxonomy": "ld_course_category",
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/ld_course_category?post=109371"
+        },
+        {
+          "taxonomy": "ld_course_tag",
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/ld_course_tag?post=109371"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 65654,
+    "date": "2021-04-08T10:01:15",
+    "date_gmt": "2021-04-08T10:01:15",
+    "guid": {
+      "rendered": "https://globalaihub.cloud/?post_type=sfwd-courses&#038;p=65654"
+    },
+    "modified": "2022-02-10T11:18:57",
+    "modified_gmt": "2022-02-10T08:18:57",
+    "slug": "business-value-creation-in-banking",
+    "status": "publish",
+    "type": "sfwd-courses",
+    "link": "https://globalaihub.com/courses/business-value-creation-in-banking/",
+    "title": {
+      "rendered": "Business Value Creation in Banking"
+    },
+    "content": {
+      "rendered": "<ul>\n<li>A world-class course to better understand how to create business value by modern technologies, above all AI, in the banking sector</li>\n<li>With this course you will gain unique insights about the most relevant and exciting AI applications for business</li>\n<li>Produced by the AI Business School, the Swiss-based global leader in modern education on AI, robotics and data</li>\n<li>Supported by inspiring thought leaders from leading tech firms like Google, Amazon, UiPath, Tata Consultancy Services (TCS) and many others</li>\n<li>Very easy to understand, entertaining and full of inspiring practical examples from all around the world</li>\n</ul>\n<h4><strong>Contributors to the course</strong></h4>\n<p><img loading=\"lazy\" class=\"aligncenter wp-image-83732 size-full\" src=\"https://globalaihub.com/wp-content/uploads/2021/05/Healthcare-Banking-Insurance-Logos.png\" alt=\"\" width=\"771\" height=\"209\" srcset=\"https://globalaihub.com/wp-content/uploads/2021/05/Healthcare-Banking-Insurance-Logos.png 771w, https://globalaihub.com/wp-content/uploads/2021/05/Healthcare-Banking-Insurance-Logos-300x81.png 300w, https://globalaihub.com/wp-content/uploads/2021/05/Healthcare-Banking-Insurance-Logos-768x208.png 768w, https://globalaihub.com/wp-content/uploads/2021/05/Healthcare-Banking-Insurance-Logos-400x108.png 400w, https://globalaihub.com/wp-content/uploads/2021/05/Healthcare-Banking-Insurance-Logos-624x169.png 624w, https://globalaihub.com/wp-content/uploads/2021/05/Healthcare-Banking-Insurance-Logos-25x7.png 25w, https://globalaihub.com/wp-content/uploads/2021/05/Healthcare-Banking-Insurance-Logos-100x27.png 100w, https://globalaihub.com/wp-content/uploads/2021/05/Healthcare-Banking-Insurance-Logos-600x163.png 600w\" sizes=\"(max-width: 771px) 100vw, 771px\" /></p>\n<h4><strong>All our courses include</strong></h4>\n<ul>\n<li>Additional access to active mentoring by experts of the Global AI Hub</li>\n<li>A joint certificate issued by Global AI Hub and AI Business School for each successful learner</li>\n</ul>\n<h4><strong>Hub</strong></h4>\n<p>You are invited to join our <a href=\"https://globalaihub.com/hubs/business-value-creation-in-banking/\" target=\"_blank\" rel=\"noopener\">hub</a> and use this space to discuss topics related to the course, share interesting and relevant material and links, ask questions and engage with peers.</p>\n<h4><strong>Price</strong></h4>\n<p>130 HubPoints</p>\n<h4><strong>World-class lecturers</strong></h4>\n<p><img loading=\"lazy\" class=\"aligncenter wp-image-83743 size-large\" src=\"https://globalaihub.com/wp-content/uploads/2021/04/Banking-Lecturers-P2-ENG-869x1024.png\" alt=\"\" width=\"869\" height=\"1024\" srcset=\"https://globalaihub.com/wp-content/uploads/2021/04/Banking-Lecturers-P2-ENG-869x1024.png 869w, https://globalaihub.com/wp-content/uploads/2021/04/Banking-Lecturers-P2-ENG-255x300.png 255w, https://globalaihub.com/wp-content/uploads/2021/04/Banking-Lecturers-P2-ENG-768x905.png 768w, https://globalaihub.com/wp-content/uploads/2021/04/Banking-Lecturers-P2-ENG-624x735.png 624w, https://globalaihub.com/wp-content/uploads/2021/04/Banking-Lecturers-P2-ENG-21x25.png 21w, https://globalaihub.com/wp-content/uploads/2021/04/Banking-Lecturers-P2-ENG-85x100.png 85w, https://globalaihub.com/wp-content/uploads/2021/04/Banking-Lecturers-P2-ENG-600x707.png 600w, https://globalaihub.com/wp-content/uploads/2021/04/Banking-Lecturers-P2-ENG.png 1116w\" sizes=\"(max-width: 869px) 100vw, 869px\" /></p>\n<h4><strong>Why take this course?</strong></h4>\n<p>Modern digital and AI technologies have an impact on practically all areas of the banking industry. May it be payments, bank loans, investment and asset management, compliance and regulation or even AI-powered pure digital and mobile banks, cryptocurrencies and blockchain technologies.</p>\n<p>With this advanced course you will discover how to create real tangible business benefits in the banking sector. You will learn how to take full advantage of modern AI and digitalization technologies to increase efficiency, productivity and speed by hyperautomation, integrate new customer interaction models to meet customer expectations and scale up the effectiveness of marketing and sales efforts.</p>\n<h4><strong>Prerequisites</strong></h4>\n<p>There are no prerequisites for this course, but we recommend that learners take first the <a href=\"https://globalaihub.com/courses/introduction-to-ai-in-banking/\" target=\"_blank\" rel=\"noopener\"><strong>&#8220;Introduction to AI in Banking&#8221;</strong></a> course. It is suited for all learners with or without any technical knowledge.</p>\n<h4><strong>Associated learning paths</strong></h4>\n<ul>\n<li><a href=\"https://globalaihub.com/ai-business-analyst-certificate-in-banking/\" target=\"_blank\" rel=\"noopener\">AI Business Analyst Certificate in Banking</a></li>\n<li><a href=\"https://globalaihub.com/ai-management-certificate-in-banking/\" target=\"_blank\" rel=\"noopener\">AI Management Certificate in Banking</a></li>\n<li><a href=\"https://globalaihub.com/hyperautomation-manager-certificate-in-banking/\" target=\"_blank\" rel=\"noopener\">Hyperautomation Manager Certificate in Banking</a></li>\n</ul>\n<h4><strong>Curriculum </strong></h4>\n<p>Lesson 1: Creating business value with AI, robotics and data<br />\nLesson 2: Hyperautomation to increase speed, efficiency and productivity<br />\nLesson 3: RPA use cases for key business functions<br />\nLesson 4: New customer interaction models<br />\nLesson 5: Increased effectiveness in marketing and sales<br />\nLesson 6: The secret for transforming customer experience with AI – AWS Interview<br />\nLesson 7: The art of practical application of AI in banking and insurance – Google Interview</p>\n<p>The final step of the course is the final assessment. Once you pass the assessment, you will be able to access your certificate.</p>\n<p>The\u202fcourse\u202ftakes approximately <strong>4-5 hours</strong> to complete.</p>\n<p><strong>Learning activities</strong></p>\n<p>The course includes a series of lessons which lead you through the content in small, bite-sized learning blocks. Each lesson includes exciting video sessions followed by thought-provoking assessment questions.</p>\n<ul>\n<li>Video sessions have to be marked as complete and can be accessed freely after completion of each lesson.</li>\n<li>Assessment questions are not graded and are designed to help you gain further insights into the topic.</li>\n<li>Short summaries of each lesson are located in the &#8220;Materials&#8221; tab and can be downloaded as PDF.</li>\n</ul>\n<p><strong>Are you ready to dive into the fascinating world of AI and digitalization? Go ahead and start with the first lesson!</strong></p>\n",
+      "protected": false
+    },
+    "author": 17,
+    "featured_media": 83170,
+    "menu_order": 0,
+    "template": "",
+    "categories": [125],
+    "tags": [],
+    "ld_course_category": [83, 166],
+    "ld_course_tag": [186, 143],
+    "materials_enabled": false,
+    "materials": {
+      "rendered": ""
+    },
+    "certificate": 0,
+    "exam_challenge": 0,
+    "disable_content_table": true,
+    "lessons_per_page": false,
+    "lesson_per_page_custom": 20,
+    "topic_per_page_custom": 20,
+    "price_type": "free",
+    "price_type_paynow_price": "",
+    "price_type_paynow_enrollment_url": "",
+    "price_type_subscribe_price": "",
+    "trial_price": "",
+    "price_type_subscribe_enrollment_url": "",
+    "price_type_closed_price": "",
+    "price_type_closed_custom_button_url": "",
+    "prerequisite_enabled": false,
+    "prerequisite_compare": "ANY",
+    "prerequisites": [""],
+    "points_enabled": false,
+    "points_access": "",
+    "points_amount": "",
+    "progression_disabled": false,
+    "expire_access": false,
+    "expire_access_days": 0,
+    "expire_access_delete_progress": false,
+    "_links": {
+      "self": [
+        {
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/65654"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://globalaihub.com/wp-json/wp/v2/types/sfwd-courses"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/users/17"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 56,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/65654/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 109476,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/65654/revisions/109476"
+        }
+      ],
+      "prerequisites": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/65654/prerequisites"
+        }
+      ],
+      "steps": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/65654/steps"
+        }
+      ],
+      "users": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/65654/users"
+        }
+      ],
+      "groups": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/65654/groups"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/media/83170"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://globalaihub.com/wp-json/wp/v2/media?parent=65654"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/categories?post=65654"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/tags?post=65654"
+        },
+        {
+          "taxonomy": "ld_course_category",
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/ld_course_category?post=65654"
+        },
+        {
+          "taxonomy": "ld_course_tag",
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/ld_course_tag?post=65654"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 65402,
+    "date": "2021-04-08T08:07:05",
+    "date_gmt": "2021-04-08T08:07:05",
+    "guid": {
+      "rendered": "https://globalaihub.cloud/?post_type=sfwd-courses&#038;p=65402"
+    },
+    "modified": "2022-02-10T11:28:14",
+    "modified_gmt": "2022-02-10T08:28:14",
+    "slug": "business-value-creation-in-healthcare",
+    "status": "publish",
+    "type": "sfwd-courses",
+    "link": "https://globalaihub.com/courses/business-value-creation-in-healthcare/",
+    "title": {
+      "rendered": "Business Value Creation in Healthcare"
+    },
+    "content": {
+      "rendered": "<ul>\n<li>A world-class course to better understand how to create business value by modern technologies, above all AI, in the life sciences &amp; healthcare sector</li>\n<li>Covering key business areas with relevance for medical doctors and nurses, for hospitals, pharma and medtech companies, pharmacies, health insurers as well as for public health institutions</li>\n<li>Produced by the AI Business School, the Swiss-based global leader in modern education on AI, robotics and data</li>\n<li>Supported by inspiring thought leaders from leading tech firms like Google, Amazon, UiPath, Tata Consultancy Services (TCS) and many others</li>\n<li>Very easy to understand, entertaining and full of inspiring practical examples from all around the world</li>\n</ul>\n<h4><strong>Contributors</strong> <strong>to</strong> <strong>the</strong> <strong>course</strong></h4>\n<p><img loading=\"lazy\" class=\"aligncenter wp-image-83732 size-full\" src=\"https://globalaihub.com/wp-content/uploads/2021/05/Healthcare-Banking-Insurance-Logos.png\" alt=\"\" width=\"771\" height=\"209\" srcset=\"https://globalaihub.com/wp-content/uploads/2021/05/Healthcare-Banking-Insurance-Logos.png 771w, https://globalaihub.com/wp-content/uploads/2021/05/Healthcare-Banking-Insurance-Logos-300x81.png 300w, https://globalaihub.com/wp-content/uploads/2021/05/Healthcare-Banking-Insurance-Logos-768x208.png 768w, https://globalaihub.com/wp-content/uploads/2021/05/Healthcare-Banking-Insurance-Logos-400x108.png 400w, https://globalaihub.com/wp-content/uploads/2021/05/Healthcare-Banking-Insurance-Logos-624x169.png 624w, https://globalaihub.com/wp-content/uploads/2021/05/Healthcare-Banking-Insurance-Logos-25x7.png 25w, https://globalaihub.com/wp-content/uploads/2021/05/Healthcare-Banking-Insurance-Logos-100x27.png 100w, https://globalaihub.com/wp-content/uploads/2021/05/Healthcare-Banking-Insurance-Logos-600x163.png 600w\" sizes=\"(max-width: 771px) 100vw, 771px\" /></p>\n<h4><strong>All</strong> <strong>our</strong> <strong>courses</strong> <strong>include</strong></h4>\n<ul>\n<li>Additional access to active mentoring by experts of the Global AI Hub</li>\n<li>A joint certificate issued by Global AI Hub and AI Business School for each successful learner</li>\n</ul>\n<h4><strong>Hub</strong></h4>\n<p>You are invited to join our <a href=\"https://globalaihub.com/hubs/business-value-creation-in-healthcare/\" target=\"_blank\" rel=\"noopener\">hub</a> and use this space to discuss topics related to the course, share interesting and relevant material and links, ask questions and engage with peers.</p>\n<h4><strong>Price</strong></h4>\n<p>130 HubPoints</p>\n<h4><strong>World-class</strong> <strong>lecturers</strong></h4>\n<p><img loading=\"lazy\" class=\"aligncenter wp-image-79741 size-large\" src=\"https://globalaihub.com/wp-content/uploads/2021/04/Healthcare-Lecturers-ENG-1-1024x600.png\" alt=\"\" width=\"1024\" height=\"600\" srcset=\"https://globalaihub.com/wp-content/uploads/2021/04/Healthcare-Lecturers-ENG-1-1024x600.png 1024w, https://globalaihub.com/wp-content/uploads/2021/04/Healthcare-Lecturers-ENG-1-300x176.png 300w, https://globalaihub.com/wp-content/uploads/2021/04/Healthcare-Lecturers-ENG-1-768x450.png 768w, https://globalaihub.com/wp-content/uploads/2021/04/Healthcare-Lecturers-ENG-1.png 1728w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></p>\n<h4><strong>Why</strong> <strong>take</strong> <strong>this</strong> <strong>course?</strong></h4>\n<p>Modern digital and, above all AI technologies have an impact on practically all areas of life sciences and healthcare and are relevant for all players of the industry. Whether for medical doctors and nurses, for hospitals, pharma and medtech companies, pharmacies, health insurers as well as for public health institutions.</p>\n<p>With this advanced course you will discover how to create real tangible business benefits in the life sciences and healthcare sector. You will learn how to take full advantage of modern AI and digitalization technologies to increase efficiency, productivity and speed by hyperautomation, integrate new customer interaction models to meet customer expectations and scale up the effectiveness of marketing and sales efforts.</p>\n<h4><strong>Prerequisites</strong></h4>\n<p>There are no prerequisites for this course, but we recommend that learners take first the <a href=\"https://globalaihub.com/courses/introduction-to-ai-in-healthcare/\" target=\"_blank\" rel=\"noopener\"><strong>&#8220;Introduction</strong> <strong>to</strong> <strong>AI</strong> <strong>in</strong> <strong>Healthcare&#8221;</strong></a> course. It is suited for all learners with or without any technical knowledge.</p>\n<h4>Associated learning paths</h4>\n<ul>\n<li><a href=\"https://globalaihub.com/ai-business-analyst-certificate-in-life-sciences-healthcare/\" target=\"_blank\" rel=\"noopener\">AI Business Analyst Certificate in Life Sciences &amp; Healthcare</a></li>\n<li><a href=\"https://globalaihub.com/ai-management-certificate-in-life-sciences-healthcare/\" target=\"_blank\" rel=\"noopener\">AI Management Certificate in Life Sciences &amp; Healthcare </a></li>\n<li><a href=\"https://globalaihub.com/hyperautomation-manager-certificate-in-life-sciences-healthcare/\" target=\"_blank\" rel=\"noopener\">Hyperautomation Manager Certificate in Life Sciences &amp; Healthcare</a></li>\n</ul>\n<h4><strong>Curriculum</strong></h4>\n<p>Lesson 1: Creating business value with AI, robotics and data<br />\nLesson 2: Hyperautomation to increase speed, efficiency and productivity<br />\nLesson 3: RPA use cases for key business functions<br />\nLesson 4: New customer interaction models<br />\nLesson 5: Increased effectiveness in marketing\u202fand\u202fsales<br />\nLesson 6: The secret for transforming customer experience with AI – AWS Interview<br />\nLesson 7: The art of practical application of AI – Google Interview</p>\n<p>The final step of the course is the final\u202fassessment. Once you pass the\u202fassessment, you will be able to access your certificate.</p>\n<p>The\u202fcourse\u202ftakes approximately <strong>4-5</strong> <strong>hours</strong> to complete.</p>\n<h4><strong>Learning</strong> <strong>activities</strong></h4>\n<p>The course includes a series of lessons which lead you through the content in small, bite-sized learning blocks. Each lesson includes exciting video sessions followed by thought-provoking assessment questions.</p>\n<ul>\n<li>Video sessions have to be marked as complete and can be accessed freely after completion of each lesson.</li>\n<li>Assessment questions are not graded and are designed to help you gain further insights into the topic.</li>\n<li>Short summaries of each lesson are located in the &#8220;Materials&#8221; tab and can be downloaded as PDF.</li>\n</ul>\n<p><strong>Are you ready to dive into the fascinating world of AI and digitalization? Go ahead and start with the first lesson!</strong></p>\n",
+      "protected": false
+    },
+    "author": 17,
+    "featured_media": 83264,
+    "menu_order": 0,
+    "template": "",
+    "categories": [125],
+    "tags": [],
+    "ld_course_category": [83, 166],
+    "ld_course_tag": [181, 143],
+    "materials_enabled": false,
+    "materials": {
+      "rendered": ""
+    },
+    "certificate": 0,
+    "exam_challenge": 0,
+    "disable_content_table": true,
+    "lessons_per_page": false,
+    "lesson_per_page_custom": 20,
+    "topic_per_page_custom": 20,
+    "price_type": "free",
+    "price_type_paynow_price": "",
+    "price_type_paynow_enrollment_url": "",
+    "price_type_subscribe_price": "",
+    "trial_price": "",
+    "price_type_subscribe_enrollment_url": "",
+    "price_type_closed_price": "",
+    "price_type_closed_custom_button_url": "",
+    "prerequisite_enabled": false,
+    "prerequisite_compare": "ANY",
+    "prerequisites": [""],
+    "points_enabled": false,
+    "points_access": "",
+    "points_amount": "",
+    "progression_disabled": false,
+    "expire_access": false,
+    "expire_access_days": 0,
+    "expire_access_delete_progress": false,
+    "_links": {
+      "self": [
+        {
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/65402"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://globalaihub.com/wp-json/wp/v2/types/sfwd-courses"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/users/17"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 48,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/65402/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 109483,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/65402/revisions/109483"
+        }
+      ],
+      "prerequisites": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/65402/prerequisites"
+        }
+      ],
+      "steps": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/65402/steps"
+        }
+      ],
+      "users": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/65402/users"
+        }
+      ],
+      "groups": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/65402/groups"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/media/83264"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://globalaihub.com/wp-json/wp/v2/media?parent=65402"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/categories?post=65402"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/tags?post=65402"
+        },
+        {
+          "taxonomy": "ld_course_category",
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/ld_course_category?post=65402"
+        },
+        {
+          "taxonomy": "ld_course_tag",
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/ld_course_tag?post=65402"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 65382,
+    "date": "2021-04-08T07:52:20",
+    "date_gmt": "2021-04-08T07:52:20",
+    "guid": {
+      "rendered": "https://globalaihub.cloud/?post_type=sfwd-courses&#038;p=65382"
+    },
+    "modified": "2022-02-10T11:09:21",
+    "modified_gmt": "2022-02-10T08:09:21",
+    "slug": "business-value-creation-in-insurance",
+    "status": "publish",
+    "type": "sfwd-courses",
+    "link": "https://globalaihub.com/courses/business-value-creation-in-insurance/",
+    "title": {
+      "rendered": "Business Value Creation in Insurance"
+    },
+    "content": {
+      "rendered": "<ul>\n<li>A world-class course to better understand how to create business value by modern technologies, above all AI, in the <span data-contrast=\"auto\">insurance </span><span data-contrast=\"auto\">sector</span><span data-contrast=\"auto\">\u202f</span><span data-contrast=\"auto\">\u202f</span></li>\n<li><span data-contrast=\"auto\"> With this course you will gain unique insights about the most relevant and exciting A</span><span data-contrast=\"auto\">I applications for business</span></li>\n<li><span data-contrast=\"auto\"> Produced by the AI Business School, the Swiss-based global leader in modern education on AI, robotics and data</span></li>\n<li><span data-contrast=\"auto\"> Supported by inspiring thought leaders from leading tech firms like Google, Amazon, UiPath</span></li>\n<li><span data-contrast=\"auto\"> Very easy to understand, entertaining and full of inspiring practical examples from all around the world</span></li>\n</ul>\n<h4><span data-contrast=\"auto\"><strong>Contributors to the course<br />\n</strong></span></h4>\n<p><img loading=\"lazy\" class=\"aligncenter wp-image-79094 size-full\" src=\"https://globalaihub.com/wp-content/uploads/2021/04/Healthcare-Logos-1.png\" alt=\"\" width=\"771\" height=\"209\" srcset=\"https://globalaihub.com/wp-content/uploads/2021/04/Healthcare-Logos-1.png 771w, https://globalaihub.com/wp-content/uploads/2021/04/Healthcare-Logos-1-300x81.png 300w, https://globalaihub.com/wp-content/uploads/2021/04/Healthcare-Logos-1-768x208.png 768w, https://globalaihub.com/wp-content/uploads/2021/04/Healthcare-Logos-1-400x108.png 400w, https://globalaihub.com/wp-content/uploads/2021/04/Healthcare-Logos-1-624x169.png 624w, https://globalaihub.com/wp-content/uploads/2021/04/Healthcare-Logos-1-50x14.png 50w, https://globalaihub.com/wp-content/uploads/2021/04/Healthcare-Logos-1-100x27.png 100w, https://globalaihub.com/wp-content/uploads/2021/04/Healthcare-Logos-1-600x163.png 600w\" sizes=\"(max-width: 771px) 100vw, 771px\" /></p>\n<h4><strong>All our courses include </strong></h4>\n<ul>\n<li><span data-contrast=\"auto\"> Additional access to active mentoring by experts of the Global AI Hub</span></li>\n<li><span data-contrast=\"auto\"> A joint certificate issued by Global AI Hub and AI Business School for each successful learner</span></li>\n</ul>\n<h4>Hub</h4>\n<p>You are invited to join our <a href=\"https://globalaihub.com/hubs/business-value-creation-in-insurance/\" target=\"_blank\" rel=\"noopener\">hub</a> and use this space to discuss topics related to the course, share interesting and relevant material and links, ask questions and engage with peers.</p>\n<h4><span data-contrast=\"auto\"><strong>Price</strong></span><span data-ccp-props=\"{}\"> </span></h4>\n<p><span data-contrast=\"auto\">130 </span><span data-contrast=\"auto\">HubPoints</span><span data-ccp-props=\"{}\"> </span></p>\n<p><span data-contrast=\"auto\"><strong>World-class lecturers</strong></span><br />\n<span data-ccp-props=\"{}\"> </span></p>\n<p><img loading=\"lazy\" class=\"aligncenter wp-image-79114 size-large\" src=\"https://globalaihub.com/wp-content/uploads/2021/04/Retail-Lecturers-ENG-3-869x1024.png\" alt=\"\" width=\"869\" height=\"1024\" srcset=\"https://globalaihub.com/wp-content/uploads/2021/04/Retail-Lecturers-ENG-3-869x1024.png 869w, https://globalaihub.com/wp-content/uploads/2021/04/Retail-Lecturers-ENG-3-255x300.png 255w, https://globalaihub.com/wp-content/uploads/2021/04/Retail-Lecturers-ENG-3-768x905.png 768w, https://globalaihub.com/wp-content/uploads/2021/04/Retail-Lecturers-ENG-3-624x735.png 624w, https://globalaihub.com/wp-content/uploads/2021/04/Retail-Lecturers-ENG-3-42x50.png 42w, https://globalaihub.com/wp-content/uploads/2021/04/Retail-Lecturers-ENG-3-85x100.png 85w, https://globalaihub.com/wp-content/uploads/2021/04/Retail-Lecturers-ENG-3-600x707.png 600w, https://globalaihub.com/wp-content/uploads/2021/04/Retail-Lecturers-ENG-3.png 1116w\" sizes=\"(max-width: 869px) 100vw, 869px\" /></p>\n<p><span data-contrast=\"auto\"> </span></p>\n<h4><span data-contrast=\"auto\"><strong>Why </strong></span><span data-contrast=\"auto\"><strong>take</strong></span><span data-contrast=\"auto\"><strong> this course? </strong></span><span data-ccp-props=\"{&quot;335559740&quot;:259}\"> </span></h4>\n<p><span data-contrast=\"auto\">Modern digital and AI technologies </span><span data-contrast=\"auto\">have</span><span data-contrast=\"auto\"> an impact on practically all areas of the insurance business. May it be risk management and underwriting, claims management, fraud detection and prevention, investment decisions and asset management or even AI-powered pure digital and mobile insurers.</span><span data-ccp-props=\"{&quot;335559740&quot;:259}\"> </span></p>\n<p><span data-contrast=\"auto\">With this a</span><span data-contrast=\"auto\">dvanced</span><span data-contrast=\"auto\"> </span><span data-contrast=\"auto\">course you will\u202fdiscover how to create real tangible business benefits in the insurance sector. You will learn how to take full advantage of modern AI and digitalization technologies to increase efficiency, productivity and speed by </span><span data-contrast=\"auto\">hyperautomation</span><span data-contrast=\"auto\">, integrate new customer interaction models to meet customer expectations and scale up the effectiveness of marketing and sales efforts.</span><span data-contrast=\"auto\">\u202f</span><span data-ccp-props=\"{&quot;134233117&quot;:true,&quot;134233118&quot;:true}\"> </span><span data-contrast=\"auto\"> </span></p>\n<h4><span data-contrast=\"auto\"><strong>Prerequisites</strong></span><span data-contrast=\"auto\">\u202f</span><span data-ccp-props=\"{&quot;134233117&quot;:true,&quot;134233118&quot;:true}\"> </span></h4>\n<p><span data-ccp-charstyle=\"normaltextrun\">There are no prerequisites for this course, but we recommend that learners take first the <a href=\"https://globalaihub.com/courses/introduction-to-ai-in-insurance/\" target=\"_blank\" rel=\"noopener\"><strong>&#8220;Introduction to AI in Insurance&#8221;</strong></a> course. It</span><span data-contrast=\"auto\"> is suited for all learners with or without\u202fany\u202ftechnical knowledge.</span><span data-contrast=\"auto\">\u202f</span><span data-ccp-props=\"{&quot;134233117&quot;:true,&quot;134233118&quot;:true}\"> </span></p>\n<h4>Associated learning paths</h4>\n<ul>\n<li><a href=\"https://globalaihub.com/ai-business-analyst-certificate-in-insurance/\" target=\"_blank\" rel=\"noopener\"><span data-contrast=\"auto\"> AI Business Analyst Certificate in Insurance</span></a></li>\n<li><a href=\"https://globalaihub.com/ai-management-certificate-in-insurance/\" target=\"_blank\" rel=\"noopener\"><span data-contrast=\"auto\"> AI Management Certificate in Insurance</span></a></li>\n<li><a href=\"https://globalaihub.com/hyperautomation-manager-certificate-in-insurance/\" target=\"_blank\" rel=\"noopener\">Hyperautomation Manager in Insurance</a></li>\n</ul>\n<h4><span data-contrast=\"auto\"><strong>Curriculum </strong></span><span data-ccp-props=\"{}\"> </span></h4>\n<p><span data-contrast=\"auto\">Lesson 1: Creating business value with AI, robotics and data  </span><br />\n<span data-contrast=\"auto\">Lesson 2: </span><span data-contrast=\"auto\">Hyperautomation</span><span data-contrast=\"auto\"> to increase speed, efficiency and productivity\u202f  </span><br />\n<span data-contrast=\"auto\">Lesson 3: RPA use cases for key business functions  </span><br />\n<span data-contrast=\"auto\">Lesson 4: New customer interaction models\u202f  </span><br />\n<span data-contrast=\"auto\">Lesson 5: Increased effectiveness in marketing\u202fand\u202fsales\u202f  </span><br />\n<span data-contrast=\"auto\">Lesson 6: The secret for transforming customer experience with AI – AWS Interview  </span><br />\n<span data-contrast=\"auto\">Lesson 7: The art of practical application of AI in banking and insurance – Google </span><span data-contrast=\"auto\">Interview</span><span data-contrast=\"auto\">  </span><span data-ccp-props=\"{&quot;335559740&quot;:259}\"> </span></p>\n<p><span data-contrast=\"auto\">The final step of the course is the final\u202fassessment. Once you pass the\u202fassessment, you will be able to access your certificate.</span><span data-ccp-props=\"{}\"> </span></p>\n<p><span data-contrast=\"auto\">The\u202fcourse\u202ftakes approximately\u202f<strong>4-5 hours</strong>\u202fto complete.</span><span data-contrast=\"auto\">\u202f</span><span data-ccp-props=\"{&quot;134233117&quot;:true,&quot;134233118&quot;:true}\"> </span></p>\n<h4><span data-contrast=\"auto\"><strong>Learning activities</strong></span><span data-ccp-props=\"{&quot;335559740&quot;:259}\"> </span></h4>\n<p><span data-contrast=\"auto\">The course includes a series of lessons which lead you through the content in small, bite-sized learning blocks. Each lesson includes exciting video sessions followed by thought-provoking assessment questions. </span><span data-ccp-props=\"{&quot;335559740&quot;:259}\"> </span></p>\n<ul>\n<li><span data-contrast=\"auto\"> Video sessions have tobe marked as complete and can be accessed freely after completion of each lesson. </span><span data-ccp-props=\"{&quot;134233279&quot;:true,&quot;335559740&quot;:259}\"> </span></li>\n<li><span data-contrast=\"auto\"> Assessment questions are not graded and are designed to help you gain further insights into the topic.</span></li>\n<li><span data-contrast=\"auto\"> Short summaries of each lesson are located inthe &#8220;Materials&#8221; tab and can be downloaded as PDF.</span><span data-ccp-props=\"{&quot;134233279&quot;:true,&quot;335559740&quot;:259}\"> </span></li>\n</ul>\n<p><span data-contrast=\"auto\"><strong>Are you ready to dive into the fascinating world of AI and digitalization? Go ahead and start with the first lesson!</strong></span></p>\n",
+      "protected": false
+    },
+    "author": 17,
+    "featured_media": 85010,
+    "menu_order": 0,
+    "template": "",
+    "categories": [125],
+    "tags": [],
+    "ld_course_category": [83, 166],
+    "ld_course_tag": [185, 143],
+    "materials_enabled": false,
+    "materials": {
+      "rendered": ""
+    },
+    "certificate": 0,
+    "exam_challenge": 0,
+    "disable_content_table": true,
+    "lessons_per_page": false,
+    "lesson_per_page_custom": 20,
+    "topic_per_page_custom": 20,
+    "price_type": "free",
+    "price_type_paynow_price": "",
+    "price_type_paynow_enrollment_url": "",
+    "price_type_subscribe_price": "",
+    "trial_price": "",
+    "price_type_subscribe_enrollment_url": "",
+    "price_type_closed_price": "",
+    "price_type_closed_custom_button_url": "",
+    "prerequisite_enabled": false,
+    "prerequisite_compare": "ANY",
+    "prerequisites": [""],
+    "points_enabled": false,
+    "points_access": "",
+    "points_amount": "",
+    "progression_disabled": false,
+    "expire_access": false,
+    "expire_access_days": 0,
+    "expire_access_delete_progress": false,
+    "_links": {
+      "self": [
+        {
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/65382"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://globalaihub.com/wp-json/wp/v2/types/sfwd-courses"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/users/17"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 46,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/65382/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 109468,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/65382/revisions/109468"
+        }
+      ],
+      "prerequisites": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/65382/prerequisites"
+        }
+      ],
+      "steps": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/65382/steps"
+        }
+      ],
+      "users": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/65382/users"
+        }
+      ],
+      "groups": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/65382/groups"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/media/85010"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://globalaihub.com/wp-json/wp/v2/media?parent=65382"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/categories?post=65382"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/tags?post=65382"
+        },
+        {
+          "taxonomy": "ld_course_category",
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/ld_course_category?post=65382"
+        },
+        {
+          "taxonomy": "ld_course_tag",
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/ld_course_tag?post=65382"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 67363,
+    "date": "2021-04-13T11:22:08",
+    "date_gmt": "2021-04-13T11:22:08",
+    "guid": {
+      "rendered": "https://globalaihub.cloud/?post_type=sfwd-courses&#038;p=67363"
+    },
+    "modified": "2022-02-10T11:41:04",
+    "modified_gmt": "2022-02-10T08:41:04",
+    "slug": "business-value-creation-in-retail",
+    "status": "publish",
+    "type": "sfwd-courses",
+    "link": "https://globalaihub.com/courses/business-value-creation-in-retail/",
+    "title": {
+      "rendered": "Business Value Creation in Retail"
+    },
+    "content": {
+      "rendered": "<ul>\n<li>A world-class course to better understand how to create business value by modern technologies, above all AI, in retail</li>\n<li>With this course you will gain unique insights about the key AI technologies which can have a significant positive impact on the business</li>\n<li>Produced by the AI Business School, the Swiss-based global leader in modern education on AI, robotics and data</li>\n<li>Supported by inspiring thought leaders from leading tech firms like Google, Amazon, UiPath, Tata Consultancy Services (TCS) and many others</li>\n<li>Very easy to understand, entertaining and full of inspiring practical examples from all around the world</li>\n</ul>\n<h4><strong>Contributors</strong> <strong>to</strong> <strong>the</strong> <strong>course</strong></h4>\n<p><img loading=\"lazy\" class=\"wp-image-79111 aligncenter\" src=\"https://globalaihub.com/wp-content/uploads/2021/04/Introduction-and-Industries-Logos.png\" alt=\"\" width=\"724\" height=\"75\" srcset=\"https://globalaihub.com/wp-content/uploads/2021/04/Introduction-and-Industries-Logos.png 1072w, https://globalaihub.com/wp-content/uploads/2021/04/Introduction-and-Industries-Logos-300x31.png 300w, https://globalaihub.com/wp-content/uploads/2021/04/Introduction-and-Industries-Logos-1024x106.png 1024w, https://globalaihub.com/wp-content/uploads/2021/04/Introduction-and-Industries-Logos-768x80.png 768w, https://globalaihub.com/wp-content/uploads/2021/04/Introduction-and-Industries-Logos-400x41.png 400w, https://globalaihub.com/wp-content/uploads/2021/04/Introduction-and-Industries-Logos-624x65.png 624w, https://globalaihub.com/wp-content/uploads/2021/04/Introduction-and-Industries-Logos-50x5.png 50w, https://globalaihub.com/wp-content/uploads/2021/04/Introduction-and-Industries-Logos-100x10.png 100w, https://globalaihub.com/wp-content/uploads/2021/04/Introduction-and-Industries-Logos-600x62.png 600w\" sizes=\"(max-width: 724px) 100vw, 724px\" /></p>\n<h4><strong>All</strong> <strong>our</strong> <strong>courses</strong> <strong>include</strong></h4>\n<ul>\n<li>Additional access to active mentoring by experts of the Global AI Hub</li>\n<li>A joint certificate issued by Global AI Hub and AI Business School for each successful learner</li>\n</ul>\n<h4><strong>Hub</strong></h4>\n<p>You are invited to join our <a href=\"https://globalaihub.com/hubs/business-value-creation-in-retail/\" target=\"_blank\" rel=\"noopener\">hub</a> and use this space to discuss topics related to the course, share interesting and relevant material and links, ask questions and engage with peers.</p>\n<h4><strong>Price</strong></h4>\n<p>130 HubPoints</p>\n<h4><strong>World-class</strong> <strong>lecturers</strong></h4>\n<p><img loading=\"lazy\" class=\"alignnone size-full wp-image-79121\" src=\"https://globalaihub.com/wp-content/uploads/2021/04/Leadership-Lecturers-ENG.png\" alt=\"\" width=\"1116\" height=\"1008\" /></p>\n<h4><strong>Why</strong> <strong>take</strong> <strong>this</strong> <strong>course?</strong></h4>\n<p>Modern digital and AI technologies have an impact on practically all areas of the retail industry. May it be procurement, inventory and warehouse management, store operations, logistics and of course also sales, marketing and customer care.</p>\n<p>With this advanced course you will discover how to create real tangible business benefits in the retail and e-commerce sector. You will learn how to take full advantage of modern AI and digitalization technologies to increase efficiency, productivity and speed by hyperautomation, integrate new customer interaction models to meet customer expectations and scale up the effectiveness of marketing and sales efforts.</p>\n<h4><strong>Prerequisites</strong></h4>\n<p>There are no prerequisites for this course, but we recommend that learners take first the <a href=\"https://globalaihub.com/courses/introduction-to-ai-in-retail/\" target=\"_blank\" rel=\"noopener\"><strong>&#8220;Introduction to AI in Retail&#8221;</strong></a> course. It is suited for all learners with or without any technical knowledge.</p>\n<h4><strong>Part</strong> <strong>of</strong> <strong>the</strong> <strong>following</strong> <strong>learning</strong> <strong>paths</strong></h4>\n<ul>\n<li><a href=\"https://globalaihub.com/ai-business-analyst-certificate-in-retail/\" target=\"_blank\" rel=\"noopener\">AI Business Analyst Certificate in Retail</a></li>\n<li><a href=\"https://globalaihub.com/ai-management-certificate-in-retail/\" target=\"_blank\" rel=\"noopener\">AI Management Certificate in Retail</a></li>\n<li><a href=\"https://globalaihub.com/hyperautomation-manager-certificate-in-retail/\" target=\"_blank\" rel=\"noopener\">Hyperautomation Manager Certificate in Retail</a></li>\n</ul>\n<h4><strong>Curriculum</strong></h4>\n<p>Lesson 1: Creating business value with AI, robotics and data<br />\nLesson 2: Hyperautomation to increase speed, efficiency and productivity<br />\nLesson 3: RPA use cases for key business functions<br />\nLesson 4: New customer interaction models<br />\nLesson 5: Increased effectiveness in marketing\u202fand\u202fsales<br />\nLesson 6: The secret for transforming customer experience with AI – AWS Interview<br />\nLesson 7: The art of practical application of AI – Google Interview</p>\n<p>The final step of the course is the final\u202fassessment. Once you pass the\u202fassessment, you will be able to access your certificate.</p>\n<p>The\u202fcourse\u202ftakes approximately <strong>4-5</strong> <strong>hours</strong> to complete.</p>\n<h4><strong>Learning activities</strong></h4>\n<p>The course includes a series of lessons which lead you through the content in small, bite-sized learning blocks. Each lesson includes exciting video sessions followed by thought-provoking assessment questions.</p>\n<ul>\n<li>Video sessions have to be marked as complete and can be accessed freely after completion of each lesson.</li>\n<li>Assessment questions are not graded and are designed to help you gain further insights into the topic.</li>\n<li>Short summaries of each lesson are located in the &#8220;Materials&#8221; tab and can be downloaded as PDF.</li>\n</ul>\n<p><strong>Are you ready to dive into the fascinating world of AI and digitalization? Go ahead and start with the first lesson!</strong></p>\n<p>&nbsp;</p>\n",
+      "protected": false
+    },
+    "author": 17,
+    "featured_media": 83233,
+    "menu_order": 0,
+    "template": "",
+    "categories": [125],
+    "tags": [],
+    "ld_course_category": [83, 166],
+    "ld_course_tag": [182, 143],
+    "materials_enabled": false,
+    "materials": {
+      "rendered": ""
+    },
+    "certificate": 0,
+    "exam_challenge": 0,
+    "disable_content_table": true,
+    "lessons_per_page": false,
+    "lesson_per_page_custom": 20,
+    "topic_per_page_custom": 20,
+    "price_type": "free",
+    "price_type_paynow_price": "",
+    "price_type_paynow_enrollment_url": "",
+    "price_type_subscribe_price": "",
+    "trial_price": "",
+    "price_type_subscribe_enrollment_url": "",
+    "price_type_closed_price": "",
+    "price_type_closed_custom_button_url": "",
+    "prerequisite_enabled": false,
+    "prerequisite_compare": "ANY",
+    "prerequisites": [""],
+    "points_enabled": false,
+    "points_access": "",
+    "points_amount": "",
+    "progression_disabled": false,
+    "expire_access": false,
+    "expire_access_days": 0,
+    "expire_access_delete_progress": false,
+    "_links": {
+      "self": [
+        {
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/67363"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://globalaihub.com/wp-json/wp/v2/types/sfwd-courses"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/users/17"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 37,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/67363/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 109489,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/67363/revisions/109489"
+        }
+      ],
+      "prerequisites": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/67363/prerequisites"
+        }
+      ],
+      "steps": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/67363/steps"
+        }
+      ],
+      "users": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/67363/users"
+        }
+      ],
+      "groups": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/67363/groups"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/media/83233"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://globalaihub.com/wp-json/wp/v2/media?parent=67363"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/categories?post=67363"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/tags?post=67363"
+        },
+        {
+          "taxonomy": "ld_course_category",
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/ld_course_category?post=67363"
+        },
+        {
+          "taxonomy": "ld_course_tag",
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/ld_course_tag?post=67363"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 101170,
+    "date": "2021-09-17T13:39:17",
+    "date_gmt": "2021-09-17T10:39:17",
+    "guid": {
+      "rendered": "https://globalaihub.com/?post_type=sfwd-courses&#038;p=101170"
+    },
+    "modified": "2022-02-10T11:21:09",
+    "modified_gmt": "2022-02-10T08:21:09",
+    "slug": "business-nutzen-im-bankwesen-kreieren",
+    "status": "publish",
+    "type": "sfwd-courses",
+    "link": "https://globalaihub.com/courses/business-nutzen-im-bankwesen-kreieren/",
+    "title": {
+      "rendered": "Business-Nutzen im Bankwesen kreieren"
+    },
+    "content": {
+      "rendered": "<ul>\n<li>Ein erstklassiger Kurs, um besser zu verstehen, wie Sie durch moderne Technologien, allen voran durch AI, Business-Nutzen im Bankensektor kreieren können</li>\n<li>Mit diesem Kurs erhalten Sie einzigartige Einblicke in die relevantesten und spannendsten AI-Anwendungen für Banken</li>\n<li>Entwickelt von der AI Business School, dem Schweizer Weltmarktführer für moderne Bildung in den Bereichen AI, Robotics und Daten</li>\n<li>Unterstützt von inspirierenden Vordenkern aus führenden Technologieunternehmen, wie Google, Amazon, UiPath, BSI und vielen mehr</li>\n<li>Leicht verständlich, unterhaltsam und voller inspirierender Praxisbeispiele</li>\n</ul>\n<h4>MITWIRKENDE DIESES KURSES</h4>\n<p><img loading=\"lazy\" class=\"aligncenter wp-image-101934 size-full\" src=\"https://globalaihub.com/wp-content/uploads/2021/09/banking-new-logos.png\" alt=\"\" width=\"1950\" height=\"178\" srcset=\"https://globalaihub.com/wp-content/uploads/2021/09/banking-new-logos.png 1950w, https://globalaihub.com/wp-content/uploads/2021/09/banking-new-logos-300x27.png 300w, https://globalaihub.com/wp-content/uploads/2021/09/banking-new-logos-1024x93.png 1024w, https://globalaihub.com/wp-content/uploads/2021/09/banking-new-logos-768x70.png 768w, https://globalaihub.com/wp-content/uploads/2021/09/banking-new-logos-1536x140.png 1536w, https://globalaihub.com/wp-content/uploads/2021/09/banking-new-logos-400x37.png 400w, https://globalaihub.com/wp-content/uploads/2021/09/banking-new-logos-624x57.png 624w, https://globalaihub.com/wp-content/uploads/2021/09/banking-new-logos-25x2.png 25w, https://globalaihub.com/wp-content/uploads/2021/09/banking-new-logos-100x9.png 100w, https://globalaihub.com/wp-content/uploads/2021/09/banking-new-logos-600x55.png 600w\" sizes=\"(max-width: 1950px) 100vw, 1950px\" /></p>\n<h4>ALLE UNSERE KURSE BEINHALTEN</h4>\n<p>• Zusätzlichen Zugang zu aktivem Mentoring durch Experten des Global AI Hub<br />\n• Ein Abschlusszertifikat für jeden erfolgreichen Teilnehmer, ausgestellt vom Global AI Hub und der AI Business School</p>\n<h4>HUB</h4>\n<p>Sie sind herzlich eingeladen, unserem <a href=\"https://globalaihub.com/hubs/business-nutzen-im-bankwesen-kreieren/\" target=\"_blank\" rel=\"noopener\">Hub</a> beizutreten, in dem Sie über Kursthemen diskutieren, interessante und relevante Lernmaterialien und Links teilen, Fragen stellen und sich mit anderen Lernenden austauschen können.</p>\n<h4>PREIS</h4>\n<p>130 HubPoints</p>\n<h4>ERSTKLASSIGE REFERENTEN</h4>\n<p><img loading=\"lazy\" class=\"aligncenter wp-image-101574 size-full\" src=\"https://globalaihub.com/wp-content/uploads/2021/09/banking-p2-lecturers.png\" alt=\"\" width=\"1440\" height=\"774\" srcset=\"https://globalaihub.com/wp-content/uploads/2021/09/banking-p2-lecturers.png 1440w, https://globalaihub.com/wp-content/uploads/2021/09/banking-p2-lecturers-300x161.png 300w, https://globalaihub.com/wp-content/uploads/2021/09/banking-p2-lecturers-1024x550.png 1024w, https://globalaihub.com/wp-content/uploads/2021/09/banking-p2-lecturers-768x413.png 768w, https://globalaihub.com/wp-content/uploads/2021/09/banking-p2-lecturers-400x215.png 400w, https://globalaihub.com/wp-content/uploads/2021/09/banking-p2-lecturers-624x335.png 624w, https://globalaihub.com/wp-content/uploads/2021/09/banking-p2-lecturers-25x13.png 25w, https://globalaihub.com/wp-content/uploads/2021/09/banking-p2-lecturers-100x54.png 100w, https://globalaihub.com/wp-content/uploads/2021/09/banking-p2-lecturers-600x323.png 600w\" sizes=\"(max-width: 1440px) 100vw, 1440px\" /></p>\n<h4>ÜBER DIESEN KURS</h4>\n<p>Moderne digitale, aber allen voran disruptive AI-Technologien, verändern praktisch alle Bereiche des Bankgeschäfts grundlegend. Sei es im Zahlungsverkehr, im Kreditwesen, im Investment Banking und der Vermögensverwaltung, bei Compliance- und Regulierungsthemen oder auch bei AI-gestützten rein digitalen und mobilen Banken, Kryptowährungen und Blockchain-Technologien.</p>\n<p>Mit diesem Kurs entdecken Sie, wie Sie echten, greifbaren Business-Nutzen im Bankwesen kreieren können. Sie erfahren, wie Sie die Vorteile moderner AI- und Digitalisierungstechnologien voll ausschöpfen können. Um durch Hyperautomatisierung Effizienz, Produktivität und Geschwindigkeit zu steigern. Um durch den Einsatz von neuen Kundeninteraktionsmodellen den steigenden Kundenerwartungen gerecht zu werden und um die Effektivität von Marketing- und Vertriebsmassnahmen zu erhöhen.</p>\n<h4>VORAUSSETZUNGEN</h4>\n<p>Für diesen Kurs bestehen keine Voraussetzungen. Dennoch empfehlen wir, zuerst den Kurs <strong>&#8220;Digitalisierung und AI im Bankwesen“</strong> zu belegen. Dieser Kurs ist für alle Lernenden, mit oder ohne technische Kenntnisse, geeignet.</p>\n<h4>BESTANDTEILE DER LERNPFADE</h4>\n<ul>\n<li><a href=\"https://globalaihub.com/ai-business-analyst-certificate-in-banking/\" target=\"_blank\" rel=\"noopener\">AI Business Analyst Certificate in Banking</a></li>\n<li><a href=\"https://globalaihub.com/ai-management-certificate-in-banking/\" target=\"_blank\" rel=\"noopener\">AI Management Certificate in Banking</a></li>\n<li><a href=\"https://globalaihub.com/hyperautomation-manager-certificate-in-banking/\" target=\"_blank\" rel=\"noopener\">Hyperautomation Manager Certificate in Banking</a></li>\n</ul>\n<h4>CURRICULUM</h4>\n<p>Kursmodul 1: Business-Nutzen kreieren mit AI, Robotics und Daten<br />\nKursmodul 2: Die Kunst praktischer AI-Anwendungen bei Banken und Versicherungen – Google<br />\nKursmodul 3: Intelligente Hyperautomation für mehr Produktivität, Effizienz und Geschwindigkeit<br />\nKursmodul 4: RPA-Anwendungsbeispiele für ausgewählte Unternehmensfunktionen mit UiPath<br />\nKursmodul 5: Neue Interaktionsmodelle mit Kunden<br />\nKursmodul 6: Erhöhte Effektivität in Marketing &amp; Sales<br />\nKursmodul 7: Wie Kundenerlebnisse mit Hilfe von AI transformiert werden können – AWS</p>\n<p>Der letzte Schritt des Kurses ist die Abschlussprüfung. Sobald Sie diese bestanden haben, können Sie auf Ihr ganz persönliches Zertifikat zugreifen.</p>\n<p>Die Kursdauer beträgt etwa <strong>4-5 Stunden</strong>.</p>\n<h4>LERNAKTIVITÄTEN</h4>\n<p>Dieser Kurs besteht aus einer Reihe von Kursmodulen, die Sie in aufeinanderfolgenden Blöcken durch den Inhalt führen. Jedes Kursmodul enthält eine oder mehrere Video-Sessions, gefolgt von zum Nachdenken anregenden Vertiefungsfragen.</p>\n<ul>\n<li>Video-Sessions müssen als abgeschlossen markiert werden und können nach Abschluss jedes Kursmoduls beliebig abgerufen werden.</li>\n<li>Die Vertiefungsfragen werden nicht benotet. Sie sollen Ihnen vor allem helfen weitere Einblicke in das Thema zu gewinnen.</li>\n<li>Im Menüpunkt “Materials” finden Sie kurze Zusammenfassungen jedes Kursmoduls, die Sie als PDF-Dateien herunterladen können.</li>\n</ul>\n<p><strong>Sind Sie bereit, in die faszinierende Welt der AI und Digitalisierung einzutauchen? Dann fangen Sie gleich mit dem ersten Kursmodul an!</strong></p>\n",
+      "protected": false
+    },
+    "author": 17,
+    "featured_media": 101172,
+    "menu_order": 0,
+    "template": "",
+    "categories": [125],
+    "tags": [],
+    "ld_course_category": [83, 595],
+    "ld_course_tag": [698, 143],
+    "materials_enabled": false,
+    "materials": {
+      "rendered": ""
+    },
+    "certificate": 0,
+    "exam_challenge": 0,
+    "disable_content_table": true,
+    "lessons_per_page": false,
+    "lesson_per_page_custom": 20,
+    "topic_per_page_custom": 20,
+    "price_type": "free",
+    "price_type_paynow_price": "",
+    "price_type_paynow_enrollment_url": "",
+    "price_type_subscribe_price": "",
+    "trial_price": "",
+    "price_type_subscribe_enrollment_url": "",
+    "price_type_closed_price": "",
+    "price_type_closed_custom_button_url": "",
+    "prerequisite_enabled": false,
+    "prerequisite_compare": "ANY",
+    "prerequisites": [""],
+    "points_enabled": false,
+    "points_access": "",
+    "points_amount": "",
+    "progression_disabled": false,
+    "expire_access": false,
+    "expire_access_days": 0,
+    "expire_access_delete_progress": false,
+    "_links": {
+      "self": [
+        {
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/101170"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://globalaihub.com/wp-json/wp/v2/types/sfwd-courses"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/users/17"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 13,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/101170/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 109479,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/101170/revisions/109479"
+        }
+      ],
+      "prerequisites": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/101170/prerequisites"
+        }
+      ],
+      "steps": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/101170/steps"
+        }
+      ],
+      "users": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/101170/users"
+        }
+      ],
+      "groups": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/101170/groups"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/media/101172"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://globalaihub.com/wp-json/wp/v2/media?parent=101170"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/categories?post=101170"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/tags?post=101170"
+        },
+        {
+          "taxonomy": "ld_course_category",
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/ld_course_category?post=101170"
+        },
+        {
+          "taxonomy": "ld_course_tag",
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/ld_course_tag?post=101170"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 102944,
+    "date": "2021-10-05T12:24:16",
+    "date_gmt": "2021-10-05T09:24:16",
+    "guid": {
+      "rendered": "https://globalaihub.com/?post_type=sfwd-courses&#038;p=102944"
+    },
+    "modified": "2022-02-10T11:43:41",
+    "modified_gmt": "2022-02-10T08:43:41",
+    "slug": "business-nutzen-im-einzelhandel-und-im-e-commerce-kreieren",
+    "status": "publish",
+    "type": "sfwd-courses",
+    "link": "https://globalaihub.com/courses/business-nutzen-im-einzelhandel-und-im-e-commerce-kreieren/",
+    "title": {
+      "rendered": "Business-Nutzen im Einzelhandel &#038; im E-Commerce kreieren"
+    },
+    "content": {
+      "rendered": "<ul>\n<li>Ein erstklassiger Kurs, um besser zu verstehen, wie Sie durch moderne Technologien, allen voran durch AI, Business-Nutzen im Einzelhandel &amp; im E-Commerce kreieren können</li>\n<li>Mit diesem Kurs erhalten Sie einzigartige Einblicke in die relevantesten und spannendsten AI-Anwendungen für Einzelhändler</li>\n<li>Entwickelt von der AI Business School, dem Schweizer Weltmarktführer für moderne Bildung in den Bereichen AI, Robotics und Daten</li>\n<li>Unterstützt von inspirierenden Vordenkern aus führenden Technologieunternehmen, wie Google, Amazon, UiPath, BSI und vielen mehr</li>\n<li>Leicht verständlich, unterhaltsam und voller inspirierender Praxisbeispiele</li>\n</ul>\n<h4>MITWIRKENDE DIESES KURSES</h4>\n<p><img loading=\"lazy\" class=\"aligncenter wp-image-101934\" src=\"https://globalaihub.com/wp-content/uploads/2021/09/banking-new-logos-1024x93.png\" alt=\"\" width=\"1096\" height=\"100\" srcset=\"https://globalaihub.com/wp-content/uploads/2021/09/banking-new-logos-1024x93.png 1024w, https://globalaihub.com/wp-content/uploads/2021/09/banking-new-logos-300x27.png 300w, https://globalaihub.com/wp-content/uploads/2021/09/banking-new-logos-768x70.png 768w, https://globalaihub.com/wp-content/uploads/2021/09/banking-new-logos-1536x140.png 1536w, https://globalaihub.com/wp-content/uploads/2021/09/banking-new-logos-400x37.png 400w, https://globalaihub.com/wp-content/uploads/2021/09/banking-new-logos-624x57.png 624w, https://globalaihub.com/wp-content/uploads/2021/09/banking-new-logos-25x2.png 25w, https://globalaihub.com/wp-content/uploads/2021/09/banking-new-logos-100x9.png 100w, https://globalaihub.com/wp-content/uploads/2021/09/banking-new-logos-600x55.png 600w, https://globalaihub.com/wp-content/uploads/2021/09/banking-new-logos.png 1950w\" sizes=\"(max-width: 1096px) 100vw, 1096px\" /></p>\n<h4>ALLE UNSERE KURSE BEINHALTEN</h4>\n<ul>\n<li>Zusätzlichen Zugang zu aktivem Mentoring durch Experten des Global AI Hub</li>\n<li>Ein Abschlusszertifikat für jeden erfolgreichen Teilnehmer, ausgestellt vom Global AI Hub und der AI Business School</li>\n</ul>\n<h4>HUB</h4>\n<p>Sie sind herzlich eingeladen, unserem <a href=\"https://globalaihub.com/hubs/business-nutzen-im-einzelhandel-im-e-commerce-kreieren/\" target=\"_blank\" rel=\"noopener\">Hub</a> beizutreten, in dem Sie über Kursthemen diskutieren, interessante und relevante Lernmaterialien und Links teilen, Fragen stellen und sich mit anderen Lernenden austauschen können.</p>\n<h4>PREIS</h4>\n<p>130 HubPoints</p>\n<h4>ERSTKLASSIGE REFERENTEN</h4>\n<p><img loading=\"lazy\" class=\"aligncenter wp-image-101574 size-full\" src=\"https://globalaihub.com/wp-content/uploads/2021/09/banking-p2-lecturers.png\" alt=\"\" width=\"1440\" height=\"774\" srcset=\"https://globalaihub.com/wp-content/uploads/2021/09/banking-p2-lecturers.png 1440w, https://globalaihub.com/wp-content/uploads/2021/09/banking-p2-lecturers-300x161.png 300w, https://globalaihub.com/wp-content/uploads/2021/09/banking-p2-lecturers-1024x550.png 1024w, https://globalaihub.com/wp-content/uploads/2021/09/banking-p2-lecturers-768x413.png 768w, https://globalaihub.com/wp-content/uploads/2021/09/banking-p2-lecturers-400x215.png 400w, https://globalaihub.com/wp-content/uploads/2021/09/banking-p2-lecturers-624x335.png 624w, https://globalaihub.com/wp-content/uploads/2021/09/banking-p2-lecturers-25x13.png 25w, https://globalaihub.com/wp-content/uploads/2021/09/banking-p2-lecturers-100x54.png 100w, https://globalaihub.com/wp-content/uploads/2021/09/banking-p2-lecturers-600x323.png 600w\" sizes=\"(max-width: 1440px) 100vw, 1440px\" /></p>\n<h4>ÜBER DIESEN KURS</h4>\n<p>Moderne digitale, aber allen voran disruptive AI-Technologien, verändern praktisch alle Bereiche der Einzelhandelsbranche grundlegend. Sei es die Warenbeschaffung, das Bestands- und Lagermanagement, der Filialbetrieb, Logistik oder natürlich auch Vertrieb, Marketing und Kundenbetreuung.</p>\n<p>Mit diesem Kurs entdecken Sie, wie Sie echten, greifbaren Business-Nutzen im Einzelhandel kreieren können. Sie erfahren, wie Sie die Vorteile moderner AI- und Digitalisierungstechnologien voll ausschöpfen können. Um durch Hyperautomatisierung Effizienz, Produktivität und Geschwindigkeit zu steigern. Um durch den Einsatz von neuen Kundeninteraktionsmodellen den steigenden Kundenerwartungen gerecht zu werden und um die Effektivität von Marketing- und Vertriebsmassnahmen zu erhöhen.</p>\n<h4>VORAUSSETZUNGEN</h4>\n<p>Für diesen Kurs bestehen keine Voraussetzungen. Dennoch empfehlen wir, zuerst den Kurs <strong>&#8220;Digitalisierung und AI im Einzelhandel &amp; im E-Commerce&#8221;</strong> zu belegen. Dieser Kurs ist für alle Lernenden, mit oder ohne technische Kenntnisse, geeignet.</p>\n<h4>CURRICULUM</h4>\n<p>Kursmodul 1: Business-Nutzen kreieren mit AI, Robotics und Daten<br />\nKursmodul 2: Die Kunst praktischer AI-Anwendungen – Google<br />\nKursmodul 3: Intelligente Hyperautomation für mehr Produktivität, Effizienz und Geschwindigkeit<br />\nKursmodul 4: RPA-Anwendungsbeispiele für ausgewählte Unternehmensfunktionen mit UiPath<br />\nKursmodul 5: Neue Interaktionsmodelle mit Kunden<br />\nKursmodul 6: Erhöhte Effektivität in Marketing &amp; Sales<br />\nKursmodul 7: AI-gestützte Customer Journeys – BSI<br />\nKursmodul 8: Wie Kundenerlebnisse mit Hilfe von AI transformiert werden können – AWS</p>\n<p>Der letzte Schritt des Kurses ist die Abschlussprüfung. Sobald Sie diese bestanden haben, können Sie auf Ihr ganz persönliches Zertifikat zugreifen.</p>\n<p>Die Kursdauer beträgt etwa <strong>4-5 Stunden</strong>.</p>\n<h4>LERNAKTIVITÄTEN</h4>\n<p>Dieser Kurs besteht aus einer Reihe von Kursmodulen, die Sie in aufeinanderfolgenden Blöcken durch den Inhalt führen. Jedes Kursmodul enthält eine oder mehrere Video-Sessions, gefolgt von zum Nachdenken anregenden Vertiefungsfragen.</p>\n<ul>\n<li>Video-Sessions müssen als abgeschlossen markiert werden und können nach Abschluss jedes Kursmoduls beliebig abgerufen werden.</li>\n<li>Die Vertiefungsfragen werden nicht benotet. Sie sollen Ihnen vor allem helfen weitere Einblicke in das Thema zu gewinnen.</li>\n<li>Im Menüpunkt “Materials” finden Sie kurze Zusammenfassungen jedes Kursmoduls, die Sie als PDF-Dateien herunterladen können.</li>\n</ul>\n<p><strong>Sind Sie bereit, in die faszinierende Welt der AI und Digitalisierung einzutauchen? Dann fangen Sie gleich mit dem ersten Kursmodul an!</strong></p>\n",
+      "protected": false
+    },
+    "author": 17,
+    "featured_media": 108235,
+    "menu_order": 0,
+    "template": "",
+    "categories": [125],
+    "tags": [],
+    "ld_course_category": [83, 595],
+    "ld_course_tag": [789, 143],
+    "materials_enabled": false,
+    "materials": {
+      "rendered": ""
+    },
+    "certificate": 0,
+    "exam_challenge": 0,
+    "disable_content_table": true,
+    "lessons_per_page": false,
+    "lesson_per_page_custom": 20,
+    "topic_per_page_custom": 20,
+    "price_type": "free",
+    "price_type_paynow_price": "",
+    "price_type_paynow_enrollment_url": "",
+    "price_type_subscribe_price": "",
+    "trial_price": "",
+    "price_type_subscribe_enrollment_url": "",
+    "price_type_closed_price": "",
+    "price_type_closed_custom_button_url": "",
+    "prerequisite_enabled": false,
+    "prerequisite_compare": "ANY",
+    "prerequisites": [""],
+    "points_enabled": false,
+    "points_access": "",
+    "points_amount": "",
+    "progression_disabled": false,
+    "expire_access": false,
+    "expire_access_days": 0,
+    "expire_access_delete_progress": false,
+    "_links": {
+      "self": [
+        {
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/102944"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://globalaihub.com/wp-json/wp/v2/types/sfwd-courses"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/users/17"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 7,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/102944/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 103282,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/102944/revisions/103282"
+        }
+      ],
+      "prerequisites": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/102944/prerequisites"
+        }
+      ],
+      "steps": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/102944/steps"
+        }
+      ],
+      "users": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/102944/users"
+        }
+      ],
+      "groups": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/102944/groups"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/media/108235"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://globalaihub.com/wp-json/wp/v2/media?parent=102944"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/categories?post=102944"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/tags?post=102944"
+        },
+        {
+          "taxonomy": "ld_course_category",
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/ld_course_category?post=102944"
+        },
+        {
+          "taxonomy": "ld_course_tag",
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/ld_course_tag?post=102944"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 103670,
+    "date": "2021-10-18T10:37:19",
+    "date_gmt": "2021-10-18T07:37:19",
+    "guid": {
+      "rendered": "https://globalaihub.com/?post_type=sfwd-courses&#038;p=103670"
+    },
+    "modified": "2022-02-10T11:31:48",
+    "modified_gmt": "2022-02-10T08:31:48",
+    "slug": "business-nutzen-im-gesundheitswesen-kreieren",
+    "status": "publish",
+    "type": "sfwd-courses",
+    "link": "https://globalaihub.com/courses/business-nutzen-im-gesundheitswesen-kreieren/",
+    "title": {
+      "rendered": "Business-Nutzen im Gesundheitswesen kreieren"
+    },
+    "content": {
+      "rendered": "<ul>\n<li>Ein erstklassiger Kurs, um besser zu verstehen, wie Sie durch moderne Technologien, allen voran durch AI, Business-Nutzen in den Bereichen Life Sciences &amp; Gesundheitswesen kreieren können</li>\n<li>Alle Schlüsselthemen mit Relevanz für Ärzte und Pflegepersonal, für Krankenhäuser, Pharma- und Medtech-Unternehmen, Apotheken, Krankenversicherungen sowie für öffentliche Gesundheitseinrichtungen werden in diesem Kurs abgedeckt</li>\n<li>Entwickelt von der AI Business School, dem Schweizer Weltmarktführer für moderne Bildung in den Bereichen AI, Robotics und Daten</li>\n<li>Unterstützt von inspirierenden Vordenkern aus führenden Technologieunternehmen, wie Amazon, Google, UiPath, BSI und vielen mehr</li>\n<li>Leicht verständlich, unterhaltsam und voller inspirierender Praxisbeispiele</li>\n</ul>\n<h4>MITWIRKENDE DIESES KURSES</h4>\n<p><img loading=\"lazy\" class=\"aligncenter wp-image-104769\" src=\"https://globalaihub.com/wp-content/uploads/2021/10/HC-LOGOS-scaled.jpg\" alt=\"\" width=\"1552\" height=\"200\" srcset=\"https://globalaihub.com/wp-content/uploads/2021/10/HC-LOGOS-scaled.jpg 2560w, https://globalaihub.com/wp-content/uploads/2021/10/HC-LOGOS-300x39.jpg 300w, https://globalaihub.com/wp-content/uploads/2021/10/HC-LOGOS-1024x132.jpg 1024w, https://globalaihub.com/wp-content/uploads/2021/10/HC-LOGOS-768x99.jpg 768w, https://globalaihub.com/wp-content/uploads/2021/10/HC-LOGOS-1536x198.jpg 1536w, https://globalaihub.com/wp-content/uploads/2021/10/HC-LOGOS-2048x264.jpg 2048w, https://globalaihub.com/wp-content/uploads/2021/10/HC-LOGOS-400x52.jpg 400w, https://globalaihub.com/wp-content/uploads/2021/10/HC-LOGOS-624x81.jpg 624w, https://globalaihub.com/wp-content/uploads/2021/10/HC-LOGOS-25x3.jpg 25w, https://globalaihub.com/wp-content/uploads/2021/10/HC-LOGOS-100x13.jpg 100w, https://globalaihub.com/wp-content/uploads/2021/10/HC-LOGOS-600x77.jpg 600w\" sizes=\"(max-width: 1552px) 100vw, 1552px\" /></p>\n<h4>ALLE UNSERE KURSE BEINHALTEN</h4>\n<ul>\n<li>Zusätzlichen Zugang zu aktivem Mentoring durch Experten des Global AI Hub</li>\n<li>Ein Abschlusszertifikat für jeden erfolgreichen Teilnehmer, ausgestellt vom Global AI Hub und der AI Business School</li>\n</ul>\n<h4>HUB</h4>\n<p>Sie sind herzlich eingeladen, unserem <a href=\"https://globalaihub.com/hubs/business-nutzen-im-gesundheitswesen-kreieren/\" target=\"_blank\" rel=\"noopener\">Hub</a> beizutreten, in dem Sie über Kursthemen diskutieren, interessante und relevante Lernmaterialien und Links teilen, Fragen stellen und sich mit anderen Lernenden austauschen können.</p>\n<h4>PREIS</h4>\n<p>130 HubPoints</p>\n<h4>ERSTKLASSIGE REFERENTEN</h4>\n<h4><img loading=\"lazy\" class=\"aligncenter wp-image-104774 size-full\" src=\"https://globalaihub.com/wp-content/uploads/2021/10/hc-last-lecturers.png\" alt=\"\" width=\"778\" height=\"822\" srcset=\"https://globalaihub.com/wp-content/uploads/2021/10/hc-last-lecturers.png 778w, https://globalaihub.com/wp-content/uploads/2021/10/hc-last-lecturers-284x300.png 284w, https://globalaihub.com/wp-content/uploads/2021/10/hc-last-lecturers-768x811.png 768w, https://globalaihub.com/wp-content/uploads/2021/10/hc-last-lecturers-624x659.png 624w, https://globalaihub.com/wp-content/uploads/2021/10/hc-last-lecturers-25x25.png 25w, https://globalaihub.com/wp-content/uploads/2021/10/hc-last-lecturers-95x100.png 95w, https://globalaihub.com/wp-content/uploads/2021/10/hc-last-lecturers-600x634.png 600w\" sizes=\"(max-width: 778px) 100vw, 778px\" /></h4>\n<h4>ÜBER DIESEN KURS</h4>\n<p>Moderne digitale, aber allen voran disruptive AI-Technologien, verändern praktisch alle Bereiche des Gesundheitswesens und sind für alle Akteure der Branche relevant. Für Ärzte und Pflegekräfte, für Krankenhäuser, Pharma- und Medtech-Unternehmen, Apotheken, Krankenversicherungen sowie für öffentliche Gesundheitseinrichtungen.</p>\n<p>Mit diesem Kurs entdecken Sie, wie Sie echten, greifbaren Business-Nutzen in den Bereichen Life Sciences &amp; Gesundheitswesen kreieren können. Sie erfahren, wie Sie die Vorteile moderner AI- und Digitalisierungstechnologien voll ausschöpfen können. Zum einen, um durch Hyperautomatisierung Effizienz, Produktivität und Geschwindigkeit zu steigern. Zum anderen, um durch den Einsatz von neuen Kundeninteraktionsmodellen den steigenden Kundenerwartungen gerecht zu werden und um die Effektivität von Marketing- und Vertriebsmassnahmen zu erhöhen.</p>\n<h4>VORAUSSETZUNGEN</h4>\n<p>Für diesen Kurs bestehen keine Voraussetzungen. Dennoch empfehlen wir, zuerst den Kurs <strong>&#8220;Digitalisierung und AI in den Bereichen Life Sciences &amp; Gesundheitswesen&#8221;</strong> zu belegen. Dieser Kurs ist für alle Lernenden, mit oder ohne technische Kenntnisse, geeignet.</p>\n<h4>CURRICULUM</h4>\n<p>Kursmodul 1: Business-Nutzen kreieren mit AI, Robotics und Daten<br />\nKursmodul 2: Die Kunst praktischer AI-Anwendungen – Google<br />\nKursmodul 3: Intelligente Hyperautomation für mehr Produktivität, Effizienz und Geschwindigkeit<br />\nKursmodul 4: Gängige RPA-Anwendungsfälle im Gesundheitswesen &amp; in Life Sciences – UiPath<br />\nKursmodul 5: RPA-Anwendungsbeispiele für ausgewählte Unternehmensfunktionen mit UiPath<br />\nKursmodul 6: Neue Interaktionsmodelle mit Kunden<br />\nKursmodul 7: Erhöhte Effektivität in Marketing &amp; Sales<br />\nKursmodul 8: Disruptive, digitale Player: Ping An Good Doctor<br />\nKursmodul 9: Wie Kundenerlebnisse mit Hilfe von AI transformiert werden können – AWS</p>\n<p>Der letzte Schritt des Kurses ist die Abschlussprüfung. Sobald Sie diese bestanden haben, können Sie auf Ihr ganz persönliches Zertifikat zugreifen.</p>\n<p>Die Kursdauer beträgt etwa<strong> 4-5 Stunden</strong>.</p>\n<h4>LERNAKTIVITÄTEN</h4>\n<p>Dieser Kurs besteht aus einer Reihe von Kursmodulen, die Sie in aufeinanderfolgenden Blöcken durch den Inhalt führen. Jedes Kursmodul enthält eine oder mehrere Video-Sessions, gefolgt von zum Nachdenken anregenden Vertiefungsfragen.</p>\n<ul>\n<li>Video-Sessions müssen als abgeschlossen markiert werden und können nach Abschluss jedes Kursmoduls beliebig abgerufen werden.</li>\n<li>Die Vertiefungsfragen werden nicht benotet. Sie sollen Ihnen vor allem helfen weitere Einblicke in das Thema zu gewinnen.</li>\n<li>Im Menüpunkt “Materials” finden Sie kurze Zusammenfassungen jedes Kursmoduls, die Sie als PDF-Dateien herunterladen können.</li>\n</ul>\n<p><strong>Sind Sie bereit, in die faszinierende Welt der AI und Digitalisierung einzutauchen? Dann fangen Sie gleich mit dem ersten Kursmodul an!</strong></p>\n",
+      "protected": false
+    },
+    "author": 17,
+    "featured_media": 103786,
+    "menu_order": 0,
+    "template": "",
+    "categories": [125],
+    "tags": [],
+    "ld_course_category": [83, 595],
+    "ld_course_tag": [822, 143],
+    "materials_enabled": false,
+    "materials": {
+      "rendered": ""
+    },
+    "certificate": 0,
+    "exam_challenge": 0,
+    "disable_content_table": true,
+    "lessons_per_page": false,
+    "lesson_per_page_custom": 20,
+    "topic_per_page_custom": 20,
+    "price_type": "free",
+    "price_type_paynow_price": "",
+    "price_type_paynow_enrollment_url": "",
+    "price_type_subscribe_price": "",
+    "trial_price": "",
+    "price_type_subscribe_enrollment_url": "",
+    "price_type_closed_price": "",
+    "price_type_closed_custom_button_url": "",
+    "prerequisite_enabled": false,
+    "prerequisite_compare": "ANY",
+    "prerequisites": [""],
+    "points_enabled": false,
+    "points_access": "",
+    "points_amount": "",
+    "progression_disabled": false,
+    "expire_access": false,
+    "expire_access_days": 0,
+    "expire_access_delete_progress": false,
+    "_links": {
+      "self": [
+        {
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/103670"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://globalaihub.com/wp-json/wp/v2/types/sfwd-courses"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/users/17"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 19,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/103670/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 104584,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/103670/revisions/104584"
+        }
+      ],
+      "prerequisites": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/103670/prerequisites"
+        }
+      ],
+      "steps": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/103670/steps"
+        }
+      ],
+      "users": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/103670/users"
+        }
+      ],
+      "groups": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/103670/groups"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/media/103786"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://globalaihub.com/wp-json/wp/v2/media?parent=103670"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/categories?post=103670"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/tags?post=103670"
+        },
+        {
+          "taxonomy": "ld_course_category",
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/ld_course_category?post=103670"
+        },
+        {
+          "taxonomy": "ld_course_tag",
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/ld_course_tag?post=103670"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 107443,
+    "date": "2021-12-14T16:33:09",
+    "date_gmt": "2021-12-14T13:33:09",
+    "guid": {
+      "rendered": "https://globalaihub.com/?post_type=sfwd-courses&#038;p=107443"
+    },
+    "modified": "2022-02-10T12:04:21",
+    "modified_gmt": "2022-02-10T09:04:21",
+    "slug": "business-nutzen-im-mobilitatssektor-kreieren",
+    "status": "publish",
+    "type": "sfwd-courses",
+    "link": "https://globalaihub.com/courses/business-nutzen-im-mobilitatssektor-kreieren/",
+    "title": {
+      "rendered": "Business-Nutzen im Mobilitätssektor kreieren"
+    },
+    "content": {
+      "rendered": "<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Ein erstklassiger Kurs, um besser zu verstehen, wie Sie durch moderne Technologien, allen voran durch AI, Business-Nutzen im Mobilitätssektor kreieren können  </span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Mit diesem Kurs erhalten Sie einzigartige Einblicke in die relevantesten und spannendsten AI-Anwendungen</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Entwickelt von der AI Business School, dem Schweizer Weltmarktführer für moderne Bildung in den Bereichen AI, Robotics und Daten </span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Unterstützt von inspirierenden Vordenkern aus führenden Technologieunternehmen, wie Google, Amazon, UiPath, Tata Consultancy Services (TCS), BSI und vielen mehr</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Leicht verständlich, unterhaltsam und voller inspirierender Praxisbeispiele</span></li>\n</ul>\n<p><b>MITWIRKENDE DIESES KURSES</b></p>\n<p><img loading=\"lazy\" class=\"aligncenter wp-image-109056 size-large\" src=\"https://globalaihub.com/wp-content/uploads/2021/12/Mobility-P2-Logo-Banner-1024x84.jpg\" alt=\"\" width=\"640\" height=\"53\" srcset=\"https://globalaihub.com/wp-content/uploads/2021/12/Mobility-P2-Logo-Banner-1024x84.jpg 1024w, https://globalaihub.com/wp-content/uploads/2021/12/Mobility-P2-Logo-Banner-300x25.jpg 300w, https://globalaihub.com/wp-content/uploads/2021/12/Mobility-P2-Logo-Banner-768x63.jpg 768w, https://globalaihub.com/wp-content/uploads/2021/12/Mobility-P2-Logo-Banner-400x33.jpg 400w, https://globalaihub.com/wp-content/uploads/2021/12/Mobility-P2-Logo-Banner-624x51.jpg 624w, https://globalaihub.com/wp-content/uploads/2021/12/Mobility-P2-Logo-Banner-25x2.jpg 25w, https://globalaihub.com/wp-content/uploads/2021/12/Mobility-P2-Logo-Banner-100x8.jpg 100w, https://globalaihub.com/wp-content/uploads/2021/12/Mobility-P2-Logo-Banner-600x49.jpg 600w, https://globalaihub.com/wp-content/uploads/2021/12/Mobility-P2-Logo-Banner.jpg 1274w\" sizes=\"(max-width: 640px) 100vw, 640px\" /></p>\n<p><b>ALLE UNSERE KURSE BEINHALTEN</b></p>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Zusätzlichen Zugang zu aktivem Mentoring durch Experten des Global AI Hub </span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Ein Abschlusszertifikat für jeden erfolgreichen Teilnehmer, ausgestellt vom Global AI Hub und der AI Business School  </span></li>\n</ul>\n<h4>HUB</h4>\n<p>Sie sind herzlich eingeladen, unserem <a href=\"https://globalaihub.com/hubs/business-nutzen-im-mobilitatssektor-kreieren/\" target=\"_blank\" rel=\"noopener\">Hub</a> beizutreten, in dem Sie über Kursthemen diskutieren, interessante und relevante Lernmaterialien und Links teilen, Fragen stellen und sich mit anderen Lernenden austauschen können.</p>\n<p><b>PREIS</b></p>\n<p><span style=\"font-weight: 400;\">130 HubPoints</span></p>\n<p><b>ERSTKLASSIGE</b> <b>REFERENTEN</b></p>\n<p><img loading=\"lazy\" class=\"aligncenter wp-image-109057 size-full\" src=\"https://globalaihub.com/wp-content/uploads/2021/12/Lecturers-Mobility-P2.jpg\" alt=\"\" width=\"594\" height=\"720\" srcset=\"https://globalaihub.com/wp-content/uploads/2021/12/Lecturers-Mobility-P2.jpg 594w, https://globalaihub.com/wp-content/uploads/2021/12/Lecturers-Mobility-P2-248x300.jpg 248w, https://globalaihub.com/wp-content/uploads/2021/12/Lecturers-Mobility-P2-21x25.jpg 21w, https://globalaihub.com/wp-content/uploads/2021/12/Lecturers-Mobility-P2-83x100.jpg 83w\" sizes=\"(max-width: 594px) 100vw, 594px\" /></p>\n<p><b>ÜBER DIESEN KURS</b></p>\n<p><span style=\"font-weight: 400;\">Moderne digitale, aber allen voran disruptive AI-Technologien, verändern praktisch alle Bereiche des Mobilitätssektors grundlegend. Seien es selbstfahrende Fahrzeuge, fliegende Drohnen, fahrerlose Züge, autonome Schiffe, Roboter in der Lagerhaltung und Logistik, Predictive Maintanence oder Supply Chain Management.</span></p>\n<p><span style=\"font-weight: 400;\">Mit diesem Kurs entdecken Sie, wie Sie echten, greifbaren Business-Nutzen in der Mobilitätsbranche kreieren können. Sie erfahren, wie Sie die Vorteile moderner AI- und Digitalisierungstechnologien voll ausschöpfen können. Zum einen, um durch Hyperautomatisierung Effizienz, Produktivität und Geschwindigkeit zu steigern. Zum anderen, um durch den Einsatz von neuen Kundeninteraktionsmodellen den steigenden Kundenerwartungen gerecht zu werden und um die Effektivität von Marketing- und Vertriebsmassnahmen zu erhöhen.</span></p>\n<p><b>VORAUSSETZUNGEN</b></p>\n<p><span style=\"font-weight: 400;\">Für diesen Kurs bestehen keine Voraussetzungen. Er ist für alle Lernenden, mit oder ohne technische Kenntnisse, geeignet. Dennoch empfehlen wir, zuerst den Kurs </span><b>&#8220;Digitalisierung und AI im Mobilitätssektor&#8221;</b><span style=\"font-weight: 400;\"> zu belegen.</span></p>\n<p><b>CURRICULUM</b></p>\n<p><span style=\"font-weight: 400;\">Kursmodul 1: Business-Nutzen kreieren mit AI, Robotics und Daten<br />\n</span><span style=\"font-weight: 400;\">Kursmodul 2: Die Kunst praktischer AI-Anwendungen – Google<br />\n</span><span style=\"font-weight: 400;\">Kursmodul 3: Intelligente Hyperautomation für mehr Produktivität, Effizienz und Geschwindigkeit<br />\n</span><span style=\"font-weight: 400;\">Kursmodul 4: RPA-Anwendungsbeispiele für ausgewählte Unternehmensfunktionen mit UiPath<br />\n</span><span style=\"font-weight: 400;\">Kursmodul 5: Einsatz von AI im Stadtverkehr – TCS<br />\n</span><span style=\"font-weight: 400;\">Kursmodul 6: Neue Interaktionsmodelle mit Kunden<br />\n</span><span style=\"font-weight: 400;\">Kursmodul 7: Erhöhte Effektivität in Marketing und Sales<br />\n</span><span style=\"font-weight: 400;\">Kursmodul 8: Wie Kundenerlebnisse mit Hilfe von AI transformiert werden können – AWS</span></p>\n<p><span style=\"font-weight: 400;\">Der letzte Schritt des Kurses ist die Abschlussprüfung. Sobald Sie diese bestanden haben, können Sie auf Ihr ganz persönliches Zertifikat zugreifen.</span></p>\n<p><span style=\"font-weight: 400;\">Die Kursdauer beträgt etwa </span><b>4-5 Stunden</b><span style=\"font-weight: 400;\">.  </span></p>\n<p><b>LERNAKTIVITÄTEN</b><span style=\"font-weight: 400;\"> </span></p>\n<p><span style=\"font-weight: 400;\">Dieser Kurs besteht aus einer Reihe von Kursmodulen, die Sie in aufeinanderfolgenden Lernblöcken durch den Inhalt führen. Jedes Kursmodul besteht aus einer oder mehreren Video-Sessions, gefolgt von zum Nachdenken anregenden Vertiefungsfragen.    </span></p>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Video-Sessions müssen als abgeschlossen markiert werden und können nach Abschluss jedes Kursmoduls beliebig abgerufen werden.   </span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Die Vertiefungsfragen werden nicht benotet. Sie sollen Ihnen vor allem helfen weitere Einblicke in das Thema zu gewinnen.  </span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Im Menüpunkt “Materials” finden Sie kurze Zusammenfassungen jedes Kursmoduls, die Sie als PDF-Dateien herunterladen können. </span></li>\n</ul>\n<p><b>Sind Sie bereit, in die faszinierende Welt der AI und Digitalisierung einzutauchen? Dann fangen Sie gleich mit dem ersten Kursmodul an!</b><span style=\"font-weight: 400;\"> </span></p>\n",
+      "protected": false
+    },
+    "author": 17,
+    "featured_media": 107445,
+    "menu_order": 0,
+    "template": "",
+    "categories": [125],
+    "tags": [],
+    "ld_course_category": [83, 595],
+    "ld_course_tag": [1218, 143],
+    "materials_enabled": false,
+    "materials": {
+      "rendered": ""
+    },
+    "certificate": 0,
+    "exam_challenge": 0,
+    "disable_content_table": true,
+    "lessons_per_page": false,
+    "lesson_per_page_custom": 20,
+    "topic_per_page_custom": 20,
+    "price_type": "free",
+    "price_type_paynow_price": "",
+    "price_type_paynow_enrollment_url": "",
+    "price_type_subscribe_price": "",
+    "trial_price": "",
+    "price_type_subscribe_enrollment_url": "",
+    "price_type_closed_price": "",
+    "price_type_closed_custom_button_url": "",
+    "prerequisite_enabled": false,
+    "prerequisite_compare": "ANY",
+    "prerequisites": [""],
+    "points_enabled": false,
+    "points_access": "",
+    "points_amount": "",
+    "progression_disabled": false,
+    "expire_access": false,
+    "expire_access_days": 0,
+    "expire_access_delete_progress": false,
+    "_links": {
+      "self": [
+        {
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/107443"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://globalaihub.com/wp-json/wp/v2/types/sfwd-courses"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/users/17"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 7,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/107443/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 107692,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/107443/revisions/107692"
+        }
+      ],
+      "prerequisites": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/107443/prerequisites"
+        }
+      ],
+      "steps": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/107443/steps"
+        }
+      ],
+      "users": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/107443/users"
+        }
+      ],
+      "groups": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/ldlms/v2/sfwd-courses/107443/groups"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/media/107445"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://globalaihub.com/wp-json/wp/v2/media?parent=107443"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/categories?post=107443"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/tags?post=107443"
+        },
+        {
+          "taxonomy": "ld_course_category",
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/ld_course_category?post=107443"
+        },
+        {
+          "taxonomy": "ld_course_tag",
+          "embeddable": true,
+          "href": "https://globalaihub.com/wp-json/wp/v2/ld_course_tag?post=107443"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

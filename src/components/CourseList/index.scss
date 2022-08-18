@@ -1,0 +1,43 @@
+.Container {
+  width: 100vw;
+  min-width: 480px;
+}
+
+.TabContainer {
+  display: flex;
+  list-style-type: none;
+  padding: 0;
+  justify-content: center;
+  margin-bottom: 6px;
+}
+
+.ContentContainer {
+  display: flex;
+  flex-flow: wrap;
+  justify-content: space-evenly;
+  background-color: #fcfcfc;
+  padding-bottom: 18px;
+}
+
+.Tab {
+  display: inline-block;
+  outline: 0;
+  border: 0;
+  cursor: pointer;
+  background-color: white;
+  border-radius: 4px;
+  padding: 8px 16px;
+  font-size: 16px;
+  font-weight: 600;
+  color: rgb(43, 108, 176);
+  border: 1px solid rgb(66, 153, 225);
+  line-height: 26px;
+  cursor: pointer;
+  margin-left: 16px;
+  margin-right: 16px;
+}
+
+.Tab:hover {
+  background-color: rgb(43, 108, 176);
+  color: white;
+}

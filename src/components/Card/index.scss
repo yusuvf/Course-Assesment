@@ -1,0 +1,42 @@
+.CardContainer {
+  display: flex;
+  flex-direction: column;
+  width: 25vw;
+  min-width: 380px;
+  height: 200px;
+  border: 0.7px solid lightgray;
+  border-radius: 6px;
+  padding-right: 24px;
+  padding-left: 28px;
+  background-color: white;
+  color: #2d3436;
+  margin-top: 28px;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+.CardContainer:hover {
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.5);
+}
+
+.CardHeader {
+  width: 100%;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.HeaderText {
+  margin-top: 16px;
+  font-size: 1.2rem;
+  color: #079992;
+}
+
+.CardContent {
+  display: flex;
+  height: 100%;
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+
+.ModalButton {
+  margin-bottom: 120px;
+}

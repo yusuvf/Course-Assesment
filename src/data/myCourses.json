@@ -1,0 +1,238 @@
+[
+  {
+    "id": 112568,
+    "title": "certificate test course",
+    "link": "https://globalaihub.com/courses/certificate-test-course/",
+    "description": "",
+    "is_enrolled": true,
+    "price": "",
+    "card_image": false,
+    "categories": [],
+    "tags": []
+  },
+  {
+    "id": 110548,
+    "title": "Introduction to Python",
+    "link": "https://globalaihub.com/courses/introduction-to-python/",
+    "description": "Discover Python, one of the most powerful programming languages.",
+    "is_enrolled": true,
+    "price": "",
+    "card_image": "https://globalaihub.com/wp-content/uploads/2022/03/phyton-en-624x330.png",
+    "categories": [
+      {
+        "term_id": 1,
+        "name": "Introduction",
+        "slug": "introduction",
+        "term_group": 0,
+        "term_taxonomy_id": 1,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "count": 3,
+        "filter": "raw",
+        "term_order": "0"
+      }
+    ],
+    "tags": [
+      {
+        "term_id": 1328,
+        "name": "Python",
+        "slug": "python",
+        "term_group": 0,
+        "term_taxonomy_id": 1328,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "count": 1,
+        "filter": "raw",
+        "term_order": "0"
+      }
+    ]
+  },
+  {
+    "id": 109166,
+    "title": "Veri Tabanı Sistemleri'ne Giriş",
+    "link": "https://globalaihub.com/courses/veritabani-egitimi/",
+    "description": "Bir veri bilimcinin çantasında bulunması gereken bu bilgiler en temel anlatımlarla sizlerle",
+    "is_enrolled": true,
+    "price": "",
+    "card_image": "https://globalaihub.com/wp-content/uploads/2022/01/Database-tr-624x330.png",
+    "categories": [],
+    "tags": []
+  },
+  {
+    "id": 108587,
+    "title": "Digitalisierung und AI für Krankenversicherungen",
+    "link": "https://globalaihub.com/courses/digitalisierung-und-ai-fur-krankenversicherungen/",
+    "description": "<span style=\"font-weight: 400;\">Entdecken Sie die spannendsten AI- und Digitalisierungsmöglichkeiten für Krankenversicherungen. </span>",
+    "is_enrolled": true,
+    "price": null,
+    "card_image": "https://globalaihub.com/wp-content/uploads/2022/01/Kranken-versicherungen-kurs-2-624x330.png",
+    "categories": [
+      {
+        "term_id": 125,
+        "name": "Business Courses",
+        "slug": "business-courses",
+        "term_group": 0,
+        "term_taxonomy_id": 125,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "count": 23,
+        "filter": "raw",
+        "term_order": "0"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": 107443,
+    "title": "Business-Nutzen im Mobilitätssektor kreieren",
+    "link": "https://globalaihub.com/courses/business-nutzen-im-mobilitatssektor-kreieren/",
+    "description": "<span style=\"font-weight: 400;\">Entdecken Sie, wie Sie im Mobilitätssektor echten, greifbaren Business-Nutzen kreieren können.</span>",
+    "is_enrolled": true,
+    "price": null,
+    "card_image": "https://globalaihub.com/wp-content/uploads/2021/12/kurs-gorselleriMobilitatssektor-1-624x330.png",
+    "categories": [
+      {
+        "term_id": 125,
+        "name": "Business Courses",
+        "slug": "business-courses",
+        "term_group": 0,
+        "term_taxonomy_id": 125,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "count": 23,
+        "filter": "raw",
+        "term_order": "0"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": 107029,
+    "title": "Digitalisierung und AI im Mobilitätssektor",
+    "link": "https://globalaihub.com/courses/digitalisierung-und-ai-im-mobilitatssektor/",
+    "description": "<span class=\"NormalTextRun SCXW32450320 BCX0\">Entdecken Sie die spannendsten AI- und Digitalisierungsmöglichkeiten </span><span class=\"NormalTextRun SCXW32450320 BCX0\">im Mobilitätssektor</span><span class=\"NormalTextRun SCXW32450320 BCX0\">.</span>",
+    "is_enrolled": true,
+    "price": null,
+    "card_image": "https://globalaihub.com/wp-content/uploads/2021/12/kurs-gorselleriMobilitatssektor-2-624x330.png",
+    "categories": [
+      {
+        "term_id": 125,
+        "name": "Business Courses",
+        "slug": "business-courses",
+        "term_group": 0,
+        "term_taxonomy_id": 125,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "count": 23,
+        "filter": "raw",
+        "term_order": "0"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": 103670,
+    "title": "Business-Nutzen im Gesundheitswesen kreieren",
+    "link": "https://globalaihub.com/courses/business-nutzen-im-gesundheitswesen-kreieren/",
+    "description": "Entdecken Sie, wie Sie in den Bereichen Life Sciences &amp; Gesundheitswesen echten, greifbaren Business-Nutzen kreieren können.",
+    "is_enrolled": true,
+    "price": null,
+    "card_image": "https://globalaihub.com/wp-content/uploads/2021/10/HC-DE-P2-624x330.png",
+    "categories": [
+      {
+        "term_id": 125,
+        "name": "Business Courses",
+        "slug": "business-courses",
+        "term_group": 0,
+        "term_taxonomy_id": 125,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "count": 23,
+        "filter": "raw",
+        "term_order": "0"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": 102944,
+    "title": "Business-Nutzen im Einzelhandel & im E-Commerce kreieren",
+    "link": "https://globalaihub.com/courses/business-nutzen-im-einzelhandel-und-im-e-commerce-kreieren/",
+    "description": "Entdecken Sie, wie Sie im Einzelhandel &amp; im E-Commerce echten, greifbaren Business-Nutzen kreieren können.",
+    "is_enrolled": true,
+    "price": null,
+    "card_image": "https://globalaihub.com/wp-content/uploads/2021/10/kurs-gorsellerieinzelhandel2-624x330.png",
+    "categories": [
+      {
+        "term_id": 125,
+        "name": "Business Courses",
+        "slug": "business-courses",
+        "term_group": 0,
+        "term_taxonomy_id": 125,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "count": 23,
+        "filter": "raw",
+        "term_order": "0"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": 102526,
+    "title": "Business-Nutzen im Versicherungswesen kreieren",
+    "link": "https://globalaihub.com/courses/business-nutzen-im-versicherungswesen-kreieren/",
+    "description": "Entdecken Sie, wie Sie im Versicherungswesen echten, greifbaren Business-Nutzen kreieren können.",
+    "is_enrolled": true,
+    "price": null,
+    "card_image": "https://globalaihub.com/wp-content/uploads/2021/10/Insurance-DE-P2-624x330.png",
+    "categories": [
+      {
+        "term_id": 125,
+        "name": "Business Courses",
+        "slug": "business-courses",
+        "term_group": 0,
+        "term_taxonomy_id": 125,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "count": 23,
+        "filter": "raw",
+        "term_order": "0"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": 101653,
+    "title": "Business-Nutzen in der Energiewirtschaft kreieren",
+    "link": "https://globalaihub.com/courses/business-nutzen-in-der-energiewirtschaft-kreieren/",
+    "description": "Entdecken Sie, wie Sie in der Energiewirtschaft echten, greifbaren Business-Nutzen kreieren können.",
+    "is_enrolled": true,
+    "price": null,
+    "card_image": "https://globalaihub.com/wp-content/uploads/2021/09/kurs-gorsellerienergy2-de-624x330.png",
+    "categories": [
+      {
+        "term_id": 125,
+        "name": "Business Courses",
+        "slug": "business-courses",
+        "term_group": 0,
+        "term_taxonomy_id": 125,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "count": 23,
+        "filter": "raw",
+        "term_order": "0"
+      }
+    ],
+    "tags": []
+  }
+]
